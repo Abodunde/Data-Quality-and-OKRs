@@ -1,0 +1,739 @@
+,acc_id,account_type,credit_turnover,debit_turnover,month_data_date,acc_status,min_balance,balance,rejected_payments,monthly_payment_scheduled,credit_limit,error_code
+1574,32211554.0,A,4031.0,3027.0,2021-06-03 00:00:00,D,###############################################################################################################################################################################################################################################################,1913-09-12 00:00:00,0,3,5000,input in min_balance column is not a number
+1578,32211554.0,A,956.0,5305.0,2021-08-04 00:00:00,D,###############################################################################################################################################################################################################################################################,1907-06-05 00:00:00,0,3,5000,input in min_balance column is not a number
+1580,32211554.0,A,4110.0,6724.0,2021-09-04 00:00:00,D,###############################################################################################################################################################################################################################################################,1900-04-08 00:00:00,0,3,5000,input in min_balance column is not a number
+1582,32211554.0,A,4402.0,4607.0,2021-10-05 00:00:00,D,###############################################################################################################################################################################################################################################################,###############################################################################################################################################################################################################################################################,0,3,5000,input in min_balance column is not a number
+1585,47123208.0,A,2895.0,3557.0,2021-06-03 00:00:00,D,-12510,3338,0,4,1000,input in min_balance column is an outlier
+1586,47125068.0,A,622.0,1807.0,2021-06-03 00:00:00,D,-14291,2815,0,4,1000,input in min_balance column is an outlier
+1587,47127672.0,A,4256.0,1522.0,2021-06-03 00:00:00,D,17839,6734,0,7,1000,input in min_balance column is an outlier
+1588,47131740.0,A,3101.0,622.0,2021-06-03 00:00:00,D,17728,6479,0,12,5000,input in min_balance column is an outlier
+1589,47133120.0,A,5862.0,2162.0,2021-06-03 00:00:00,D,17018,7700,0,12,5000,input in min_balance column is an outlier
+1590,47134356.0,A,4875.0,6871.0,2021-06-03 00:00:00,D,17568,2004,0,12,5000,input in min_balance column is an outlier
+1591,47134536.0,A,1078.0,6551.0,2021-06-03 00:00:00,D,-14712,-1473,0,12,5000,input in min_balance column is an outlier
+1592,47135388.0,A,2282.0,6260.0,2021-06-03 00:00:00,D,-12583,22,0,12,5000,input in min_balance column is an outlier
+1593,47135628.0,A,357.0,5520.0,2021-06-03 00:00:00,D,-12024,-1163,0,12,5000,input in min_balance column is an outlier
+1594,45124246.0,A,2431.0,6705.0,2021-06-03 00:00:00,D,-14526,-274,0,12,5000,input in min_balance column is an outlier
+1595,45124618.0,A,358.0,6091.0,2021-06-03 00:00:00,D,-12862,-1733,0,12,5000,input in min_balance column is an outlier
+1596,65124241.0,A,5539.0,1201.0,2021-06-03 00:00:00,D,18023,8338,0,12,5000,input in min_balance column is an outlier
+1597,65126809.0,A,4873.0,6172.0,2021-06-03 00:00:00,D,-13812,2701,0,3,5000,input in min_balance column is an outlier
+1598,65127001.0,A,5465.0,2609.0,2021-06-03 00:00:00,D,17451,6856,0,3,5000,input in min_balance column is an outlier
+1599,65128045.0,A,1828.0,5973.0,2021-06-03 00:00:00,D,-12728,-145,0,3,5000,input in min_balance column is an outlier
+1600,65128381.0,A,3117.0,5308.0,2021-06-03 00:00:00,D,-13875,1809,4,3,5000,input in min_balance column is an outlier
+1601,32211568.0,A,3251.0,1118.0,2021-06-03 00:00:00,D,17599,6133,0,3,5000,input in min_balance column is an outlier
+1602,20441354.0,A,562.0,1029.0,2021-06-03 00:00:00,D,-14095,3533,0,3,1000,input in min_balance column is an outlier
+1603,20442646.0,A,1774.0,5865.0,2021-06-03 00:00:00,D,-13037,-91,0,4,1000,input in min_balance column is an outlier
+1604,20445944.0,A,5821.0,297.0,2021-06-03 00:00:00,D,16363,9524,0,4,1000,input in min_balance column is an outlier
+1605,20446641.0,A,393.0,4884.0,2021-06-03 00:00:00,D,-18537,-491,0,4,1000,input in min_balance column is an outlier
+1606,88102629.0,B,1887.0,6587.0,2021-06-03 00:00:00,D,-11955,-700,0,4,1000,input in min_balance column is an outlier
+1607,88780120.0,B,4081.0,6959.0,2021-06-03 00:00:00,D,16647,1122,0,0,1000,input in min_balance column is an outlier
+1608,78795041.0,B,4251.0,454.0,2021-06-03 00:00:00,D,17238,7797,0,0,3000,input in min_balance column is an outlier
+1609,33211629.0,B,1416.0,733.0,2021-06-03 00:00:00,D,17222,4683,0,4,3000,input in min_balance column is an outlier
+1610,47124144.0,A,1670.0,832.0,2021-07-04 00:00:00,D,17564,6133,0,4,1000,input in min_balance column is an outlier
+1611,47124312.0,A,731.0,2319.0,2021-07-04 00:00:00,D,-13081,1031,0,4,1000,input in min_balance column is an outlier
+1612,47124552.0,A,280.0,4477.0,2021-07-04 00:00:00,D,-12742,-587,0,4,1000,input in min_balance column is an outlier
+1613,47125200.0,A,1910.0,4851.0,2021-07-04 00:00:00,D,-11943,-5327,0,4,1000,input in min_balance column is an outlier
+1614,47127672.0,A,4192.0,2327.0,2021-07-04 00:00:00,D,16463,8599,0,7,1000,input in min_balance column is an outlier
+1615,47128176.0,A,651.0,2266.0,2021-07-04 00:00:00,D,-12900,-892,0,7,1000,input in min_balance column is an outlier
+1616,47129268.0,A,5927.0,1211.0,2021-07-04 00:00:00,D,16782,11018,0,12,1000,input in min_balance column is an outlier
+1617,47129892.0,A,3312.0,4996.0,2021-07-04 00:00:00,D,-12018,51,0,12,1000,input in min_balance column is an outlier
+1618,47130336.0,A,48.0,4121.0,2021-07-04 00:00:00,D,-13027,-161,0,12,5000,input in min_balance column is an outlier
+1619,47131572.0,A,5018.0,1806.0,2021-07-04 00:00:00,D,17163,10125,0,12,5000,input in min_balance column is an outlier
+1620,47132736.0,A,758.0,5311.0,2021-07-04 00:00:00,D,-11891,-7158,0,12,5000,input in min_balance column is an outlier
+1621,47133120.0,A,4691.0,884.0,2021-07-04 00:00:00,D,20729,11507,0,12,5000,input in min_balance column is an outlier
+1622,47134284.0,A,3920.0,6206.0,2021-07-04 00:00:00,D,-12307,1298,0,12,5000,input in min_balance column is an outlier
+1623,47134356.0,A,5753.0,1841.0,2021-07-04 00:00:00,D,17239,5916,0,12,5000,input in min_balance column is an outlier
+1624,45123550.0,A,36.0,6528.0,2021-07-04 00:00:00,D,-11992,-7224,0,12,5000,input in min_balance column is an outlier
+1625,45125170.0,A,2869.0,6133.0,2021-07-04 00:00:00,D,-13334,-988,0,12,5000,input in min_balance column is an outlier
+1626,45125662.0,A,3775.0,6666.0,2021-07-04 00:00:00,D,-15549,-4703,0,12,5000,input in min_balance column is an outlier
+1627,65121637.0,A,1791.0,6674.0,2021-07-04 00:00:00,D,-12388,-4823,0,12,5000,input in min_balance column is an outlier
+1628,65122873.0,A,1878.0,2876.0,2021-07-04 00:00:00,D,-12430,-1797,0,12,5000,input in min_balance column is an outlier
+1629,65124241.0,A,4761.0,3434.0,2021-07-04 00:00:00,D,17364,9665,0,12,5000,input in min_balance column is an outlier
+1630,65125873.0,A,3166.0,3995.0,2021-07-04 00:00:00,D,16728,4305,0,3,5000,input in min_balance column is an outlier
+1631,65126905.0,A,5720.0,1071.0,2021-07-04 00:00:00,D,21584,11191,0,3,5000,input in min_balance column is an outlier
+1632,65128045.0,A,18.0,6442.0,2021-07-04 00:00:00,D,-13380,-6569,0,3,5000,input in min_balance column is an outlier
+1633,55580549.0,A,1286.0,628.0,2021-07-04 00:00:00,D,-16043,-1540,0,3,5000,input in min_balance column is an outlier
+1634,32211568.0,A,3748.0,1973.0,2021-07-04 00:00:00,D,17289,7908,0,3,5000,input in min_balance column is an outlier
+1635,20441694.0,A,290.0,2383.0,2021-07-04 00:00:00,D,19330,4832,0,3,1000,input in min_balance column is an outlier
+1636,20442289.0,A,1563.0,6938.0,2021-07-04 00:00:00,D,-12430,-3112,0,3,1000,input in min_balance column is an outlier
+1637,20444686.0,A,874.0,4420.0,2021-07-04 00:00:00,D,-12221,-4048,0,4,1000,input in min_balance column is an outlier
+1638,20444703.0,A,4444.0,6571.0,2021-07-04 00:00:00,D,-12348,-1234,0,4,1000,input in min_balance column is an outlier
+1639,20444941.0,A,5052.0,390.0,2021-07-04 00:00:00,D,16755,8276,0,4,1000,input in min_balance column is an outlier
+1640,20448630.0,A,247.0,5520.0,2021-07-04 00:00:00,D,-12074,-7258,0,4,1000,input in min_balance column is an outlier
+1641,20449344.0,B,3682.0,5560.0,2021-07-04 00:00:00,D,-12251,-3664,0,4,1000,input in min_balance column is an outlier
+1642,20449599.0,B,125.0,3119.0,2021-07-04 00:00:00,D,-12408,-4072,0,4,1000,input in min_balance column is an outlier
+1643,20450806.0,B,2350.0,3199.0,2021-07-04 00:00:00,D,-13402,610,0,4,1000,input in min_balance column is an outlier
+1644,88779085.0,B,1463.0,230.0,2021-07-04 00:00:00,D,-12322,1632,7,4,1000,input in min_balance column is an outlier
+1645,78795041.0,B,4282.0,464.0,2021-07-04 00:00:00,D,16562,11615,0,0,3000,input in min_balance column is an outlier
+1646,78795125.0,B,4819.0,1022.0,2021-07-04 00:00:00,D,17829,10824,0,0,3000,input in min_balance column is an outlier
+1647,78795413.0,B,5223.0,5595.0,2021-07-04 00:00:00,D,16642,8762,0,0,3000,input in min_balance column is an outlier
+1648,78795575.0,B,2792.0,6762.0,2021-07-04 00:00:00,D,-13830,-4607,0,0,3000,input in min_balance column is an outlier
+1649,78795887.0,B,3247.0,1343.0,2021-07-04 00:00:00,D,18860,9868,0,0,3000,input in min_balance column is an outlier
+1650,78796433.0,B,5251.0,1331.0,2021-07-04 00:00:00,D,17322,7299,0,4,3000,input in min_balance column is an outlier
+1651,78797069.0,B,2029.0,6509.0,2021-07-04 00:00:00,D,-13027,-1207,0,4,3000,input in min_balance column is an outlier
+1652,44774753.0,B,5904.0,580.0,2021-07-04 00:00:00,D,19017,11667,0,4,3000,input in min_balance column is an outlier
+1653,44775014.0,B,3993.0,6030.0,2021-07-04 00:00:00,D,-12677,-1801,0,6,1000,input in min_balance column is an outlier
+1654,47123292.0,A,553.0,4457.0,2021-08-04 00:00:00,D,-11986,-5282,0,4,1000,input in min_balance column is an outlier
+1655,47124552.0,A,2734.0,4473.0,2021-08-04 00:00:00,D,-12483,-2326,0,4,1000,input in min_balance column is an outlier
+1656,47129268.0,A,2182.0,1035.0,2021-08-04 00:00:00,D,16298,12165,0,12,1000,input in min_balance column is an outlier
+1657,47131356.0,A,3669.0,6343.0,2021-08-04 00:00:00,D,-12590,-1266,0,12,5000,input in min_balance column is an outlier
+1658,47134356.0,A,5709.0,1987.0,2021-08-04 00:00:00,D,16378,9638,0,12,5000,input in min_balance column is an outlier
+1659,47134536.0,A,2802.0,6658.0,2021-08-04 00:00:00,D,-17614,-8223,0,12,5000,input in min_balance column is an outlier
+1660,45124330.0,A,904.0,2591.0,2021-08-04 00:00:00,D,-11955,-4995,0,12,5000,input in min_balance column is an outlier
+1661,45124630.0,A,4505.0,6413.0,2021-08-04 00:00:00,D,-12799,726,0,12,5000,input in min_balance column is an outlier
+1662,45125842.0,A,3553.0,2456.0,2021-08-04 00:00:00,D,16342,5933,0,12,5000,input in min_balance column is an outlier
+1663,65122069.0,A,1263.0,6105.0,2021-08-04 00:00:00,D,-12570,-5326,0,12,5000,input in min_balance column is an outlier
+1664,65124241.0,A,5088.0,2479.0,2021-08-04 00:00:00,D,19345,12274,0,12,5000,input in min_balance column is an outlier
+1665,65126905.0,A,4106.0,2663.0,2021-08-04 00:00:00,D,17881,12634,0,3,5000,input in min_balance column is an outlier
+1666,65128081.0,A,1179.0,4810.0,2021-08-04 00:00:00,D,-11974,-4885,0,3,5000,input in min_balance column is an outlier
+1667,65128381.0,A,1700.0,6325.0,2021-08-04 00:00:00,D,-13336,-6066,8,3,5000,input in min_balance column is an outlier
+1668,20442051.0,A,2268.0,4829.0,2021-08-04 00:00:00,D,-12204,-2233,0,3,1000,input in min_balance column is an outlier
+1669,20442204.0,A,3899.0,1207.0,2021-08-04 00:00:00,D,18132,14989,0,3,1000,input in min_balance column is an outlier
+1670,20445842.0,A,2121.0,5815.0,2021-08-04 00:00:00,D,-13426,-4654,0,4,1000,input in min_balance column is an outlier
+1671,20445944.0,A,5184.0,2866.0,2021-08-04 00:00:00,D,18260,14788,0,4,1000,input in min_balance column is an outlier
+1672,88102629.0,B,5311.0,5942.0,2021-08-04 00:00:00,D,-12329,-5326,0,4,1000,input in min_balance column is an outlier
+1673,88779112.0,B,586.0,6513.0,2021-08-04 00:00:00,D,-14505,-8595,0,4,1000,input in min_balance column is an outlier
+1674,88779724.0,B,626.0,5195.0,2021-08-04 00:00:00,D,-12721,-8589,0,0,1000,input in min_balance column is an outlier
+1675,88780432.0,B,5857.0,608.0,2021-08-04 00:00:00,D,17730,7413,0,0,1000,input in min_balance column is an outlier
+1676,78794885.0,B,1904.0,4867.0,2021-08-04 00:00:00,D,-13786,-2071,0,0,3000,input in min_balance column is an outlier
+1677,78795413.0,B,4779.0,3373.0,2021-08-04 00:00:00,D,17208,10168,0,0,3000,input in min_balance column is an outlier
+1678,78797069.0,B,2565.0,6705.0,2021-08-04 00:00:00,D,-14583,-5347,0,4,3000,input in min_balance column is an outlier
+1679,47123328.0,A,1565.0,5814.0,2021-09-04 00:00:00,D,-12405,-11126,0,4,1000,input in min_balance column is an outlier
+1680,47124552.0,A,628.0,5997.0,2021-09-04 00:00:00,D,-16306,-7695,0,4,1000,input in min_balance column is an outlier
+1681,47128164.0,A,1136.0,4371.0,2021-09-04 00:00:00,D,-16961,-6995,0,7,1000,input in min_balance column is an outlier
+1682,47129892.0,A,1051.0,5261.0,2021-09-04 00:00:00,D,-12095,-5504,0,12,1000,input in min_balance column is an outlier
+1683,47132976.0,A,978.0,4423.0,2021-09-04 00:00:00,D,-11992,-3900,0,12,5000,input in min_balance column is an outlier
+1684,47134356.0,A,5104.0,707.0,2021-09-04 00:00:00,D,20543,14035,0,12,5000,input in min_balance column is an outlier
+1685,47134536.0,A,1250.0,3992.0,2021-09-04 00:00:00,D,-17426,-10965,0,12,5000,input in min_balance column is an outlier
+1686,45124846.0,A,1741.0,4517.0,2021-09-04 00:00:00,D,-14390,-5686,0,12,5000,input in min_balance column is an outlier
+1687,65124349.0,A,1370.0,5598.0,2021-09-04 00:00:00,D,-14165,-10741,0,12,5000,input in min_balance column is an outlier
+1688,65128081.0,A,3536.0,6714.0,2021-09-04 00:00:00,D,-16099,-8063,0,3,5000,input in min_balance column is an outlier
+1689,32213234.0,A,5300.0,695.0,2021-09-04 00:00:00,D,16339,16409,0,3,1000,input in min_balance column is an outlier
+1690,20441694.0,A,4236.0,2769.0,2021-09-04 00:00:00,D,17551,11323,0,3,1000,input in min_balance column is an outlier
+1691,20442646.0,A,1824.0,5669.0,2021-09-04 00:00:00,D,-11816,-13147,0,4,1000,input in min_balance column is an outlier
+1692,20444703.0,A,2369.0,3869.0,2021-09-04 00:00:00,D,-12466,-5420,0,4,1000,input in min_balance column is an outlier
+1693,20448630.0,A,591.0,4446.0,2021-09-04 00:00:00,D,-19904,-12862,0,4,1000,input in min_balance column is an outlier
+1694,78795041.0,B,4986.0,1869.0,2021-09-04 00:00:00,D,18340,15157,0,0,3000,input in min_balance column is an outlier
+1695,44774753.0,B,4766.0,285.0,2021-09-04 00:00:00,D,19962,18175,0,4,3000,input in min_balance column is an outlier
+1696,44775014.0,B,1799.0,6001.0,2021-09-04 00:00:00,D,-12108,-6484,0,6,1000,input in min_balance column is an outlier
+1697,47123256.0,A,5240.0,4829.0,2021-10-05 00:00:00,D,-12495,-8151,0,4,1000,input in min_balance column is an outlier
+1698,47128164.0,A,410.0,5577.0,2021-10-05 00:00:00,D,-17121,-12162,0,7,1000,input in min_balance column is an outlier
+1699,47129892.0,A,93.0,3922.0,2021-10-05 00:00:00,D,-14638,-9333,0,12,1000,input in min_balance column is an outlier
+1700,47130528.0,A,5511.0,6783.0,2021-10-05 00:00:00,D,-11959,-11083,0,12,5000,input in min_balance column is an outlier
+1701,47132976.0,A,1403.0,5931.0,2021-10-05 00:00:00,D,-12359,-8428,0,12,5000,input in min_balance column is an outlier
+1702,47133132.0,A,657.0,1177.0,2021-10-05 00:00:00,D,-14346,-10543,0,12,5000,input in min_balance column is an outlier
+1703,47135604.0,A,1865.0,6401.0,2021-10-05 00:00:00,D,-14593,-10809,0,12,5000,input in min_balance column is an outlier
+1704,45124246.0,A,1087.0,6785.0,2021-10-05 00:00:00,D,-13583,-11748,0,12,5000,input in min_balance column is an outlier
+1705,65128153.0,A,1840.0,5816.0,2021-10-05 00:00:00,D,-12149,-11975,0,3,5000,input in min_balance column is an outlier
+1706,32211568.0,A,5520.0,617.0,2021-10-05 00:00:00,D,17669,17934,0,3,5000,input in min_balance column is an outlier
+1707,32213262.0,A,5742.0,1555.0,2021-10-05 00:00:00,D,16536,18763,0,3,1000,input in min_balance column is an outlier
+1708,20441354.0,A,4314.0,5634.0,2021-10-05 00:00:00,D,-14991,-15417,0,3,1000,input in min_balance column is an outlier
+1709,20445842.0,A,1267.0,1068.0,2021-10-05 00:00:00,D,-12182,-7197,0,4,1000,input in min_balance column is an outlier
+1710,88102629.0,B,328.0,6988.0,2021-10-05 00:00:00,D,-12700,-15926,0,4,1000,input in min_balance column is an outlier
+1711,88779661.0,B,3277.0,5072.0,2021-10-05 00:00:00,D,-12193,-15782,0,0,1000,input in min_balance column is an outlier
+1712,88780159.0,B,1601.0,4614.0,2021-10-05 00:00:00,D,-12518,-6860,0,0,1000,input in min_balance column is an outlier
+1713,78795041.0,B,1524.0,1231.0,2021-10-05 00:00:00,D,19609,15450,0,0,3000,input in min_balance column is an outlier
+1714,78795125.0,B,3448.0,4357.0,2021-10-05 00:00:00,D,17310,16320,0,0,3000,input in min_balance column is an outlier
+1715,44774789.0,B,5954.0,253.0,2021-10-05 00:00:00,D,17208,17518,0,4,3000,input in min_balance column is an outlier
+1716,47128176.0,A,5.0,5830.0,2021-11-05 00:00:00,D,-13295,-13523,0,7,1000,input in min_balance column is an outlier
+1717,47129172.0,A,1893.0,6187.0,2021-11-05 00:00:00,D,-12983,-14100,0,12,1000,input in min_balance column is an outlier
+1718,47134536.0,A,403.0,5790.0,2021-11-05 00:00:00,D,-17583,-18437,0,12,5000,input in min_balance column is an outlier
+1719,45124630.0,A,56.0,6113.0,2021-11-05 00:00:00,D,-14391,-17178,0,12,5000,input in min_balance column is an outlier
+1720,65129869.0,A,2283.0,6949.0,2021-11-05 00:00:00,D,-13185,-14254,0,3,5000,input in min_balance column is an outlier
+1721,55580549.0,A,521.0,6803.0,2021-11-05 00:00:00,D,-13823,-17635,0,3,5000,input in min_balance column is an outlier
+1722,55582524.0,A,469.0,6986.0,2021-11-05 00:00:00,D,-13003,-16010,0,3,5000,input in min_balance column is an outlier
+1723,32213241.0,A,439.0,3282.0,2021-11-05 00:00:00,D,-12208,-14214,0,3,1000,input in min_balance column is an outlier
+1724,20442204.0,A,4747.0,960.0,2021-11-05 00:00:00,D,16354,17858,0,3,1000,input in min_balance column is an outlier
+1725,20446641.0,A,2227.0,6009.0,2021-11-05 00:00:00,D,-14055,-18730,0,4,1000,input in min_balance column is an outlier
+1726,20446879.0,A,266.0,6488.0,2021-11-05 00:00:00,D,-16504,-17788,0,4,1000,input in min_balance column is an outlier
+1727,20448630.0,A,776.0,6643.0,2021-11-05 00:00:00,D,-19052,-20421,0,4,1000,input in min_balance column is an outlier
+1728,20449344.0,B,1666.0,4691.0,2021-11-05 00:00:00,D,-14187,-16857,0,4,1000,input in min_balance column is an outlier
+1729,88102629.0,B,656.0,6704.0,2021-11-05 00:00:00,D,-21805,-21974,0,4,1000,input in min_balance column is an outlier
+1730,88779658.0,B,1088.0,1375.0,2021-11-05 00:00:00,D,-12001,-3501,0,0,1000,input in min_balance column is an outlier
+1731,88780432.0,B,5821.0,4174.0,2021-11-05 00:00:00,D,16976,18386,0,0,1000,input in min_balance column is an outlier
+1732,78795413.0,B,4364.0,404.0,2021-11-05 00:00:00,D,17698,20381,0,0,3000,input in min_balance column is an outlier
+1733,78795887.0,B,5504.0,3375.0,2021-11-05 00:00:00,D,16671,19303,0,0,3000,input in min_balance column is an outlier
+1734,78796109.0,B,1557.0,1610.0,2021-11-05 00:00:00,D,-12443,-14978,0,4,3000,input in min_balance column is an outlier
+1735,78797069.0,B,4675.0,5405.0,2021-11-05 00:00:00,D,-12839,-14795,0,4,3000,input in min_balance column is an outlier
+1745,32211554.0,A,4402.0,4607.0,2021-10-05 00:00:00,D,###############################################################################################################################################################################################################################################################,###############################################################################################################################################################################################################################################################,0,3,5000,input in balance column is not a number
+1748,32211554.0,A,468.0,4871.0,2021-11-05 00:00:00,D,1901-07-08 00:00:00,###############################################################################################################################################################################################################################################################,0,3,5000,input in balance column is not a number
+1749,47125200.0,A,4918.0,6497.0,2021-09-04 00:00:00,D,541,-13041,0,4,1000,input in balance column is an outlier
+1750,47129976.0,A,4993.0,46.0,2021-09-04 00:00:00,D,14690,18083,0,12,1000,input in balance column is an outlier
+1751,47131740.0,A,5975.0,2537.0,2021-09-04 00:00:00,D,14608,17738,0,12,5000,input in balance column is an outlier
+1752,47132736.0,A,1632.0,6266.0,2021-09-04 00:00:00,D,-11601,-14255,0,12,5000,input in balance column is an outlier
+1753,47133120.0,A,4622.0,295.0,2021-09-04 00:00:00,D,13544,18560,0,12,5000,input in balance column is an outlier
+1754,47134548.0,A,133.0,6679.0,2021-09-04 00:00:00,D,-6318,-13241,0,12,5000,input in balance column is an outlier
+1755,47134992.0,A,2231.0,6756.0,2021-09-04 00:00:00,D,-5206,-13178,0,12,5000,input in balance column is an outlier
+1756,65128045.0,A,2756.0,4782.0,2021-09-04 00:00:00,D,-6005,-14005,0,3,5000,input in balance column is an outlier
+1757,32212240.0,A,4434.0,98.0,2021-09-04 00:00:00,D,4517,18481,0,3,1000,input in balance column is an outlier
+1758,20441354.0,A,842.0,6955.0,2021-09-04 00:00:00,D,199,-14097,0,3,1000,input in balance column is an outlier
+1759,20442204.0,A,5490.0,1891.0,2021-09-04 00:00:00,D,15457,18588,0,3,1000,input in balance column is an outlier
+1760,20442289.0,A,490.0,6078.0,2021-09-04 00:00:00,D,-7042,-14556,0,3,1000,input in balance column is an outlier
+1761,20442646.0,A,1824.0,5669.0,2021-09-04 00:00:00,D,-11816,-13147,0,4,1000,input in balance column is an outlier
+1762,20444686.0,A,484.0,4547.0,2021-09-04 00:00:00,D,-9367,-13778,0,4,1000,input in balance column is an outlier
+1763,88779112.0,B,176.0,5093.0,2021-09-04 00:00:00,D,-9156,-13512,3,4,1000,input in balance column is an outlier
+1764,88779661.0,B,1292.0,5206.0,2021-09-04 00:00:00,D,-8424,-13987,0,0,1000,input in balance column is an outlier
+1765,44774753.0,B,4766.0,285.0,2021-09-04 00:00:00,D,19962,18175,0,4,3000,input in balance column is an outlier
+1766,47131572.0,A,4873.0,627.0,2021-10-05 00:00:00,D,1019,17750,0,12,5000,input in balance column is an outlier
+1767,47132160.0,A,5788.0,3086.0,2021-10-05 00:00:00,D,16115,18501,0,12,5000,input in balance column is an outlier
+1768,47132736.0,A,1672.0,1887.0,2021-10-05 00:00:00,D,-279,-14470,0,12,5000,input in balance column is an outlier
+1769,47133120.0,A,185.0,99.0,2021-10-05 00:00:00,D,-5473,18646,0,12,5000,input in balance column is an outlier
+1770,47134284.0,A,928.0,6661.0,2021-10-05 00:00:00,D,-1536,-13897,0,12,5000,input in balance column is an outlier
+1771,47134356.0,A,4459.0,491.0,2021-10-05 00:00:00,D,8540,18003,0,12,5000,input in balance column is an outlier
+1772,47134536.0,A,1773.0,3858.0,2021-10-05 00:00:00,D,-1136,-13050,0,12,5000,input in balance column is an outlier
+1773,47135628.0,A,2367.0,6713.0,2021-10-05 00:00:00,D,-4601,-14034,0,12,5000,input in balance column is an outlier
+1774,45124330.0,A,974.0,4481.0,2021-10-05 00:00:00,D,-7446,-14398,0,12,5000,input in balance column is an outlier
+1775,65121637.0,A,4277.0,5697.0,2021-10-05 00:00:00,D,-4345,-13377,0,12,5000,input in balance column is an outlier
+1776,65124241.0,A,4179.0,130.0,2021-10-05 00:00:00,D,9333,19993,0,12,5000,input in balance column is an outlier
+1777,65124349.0,A,291.0,3690.0,2021-10-05 00:00:00,D,9840,-14140,0,12,5000,input in balance column is an outlier
+1778,65124613.0,A,73.0,3975.0,2021-10-05 00:00:00,D,-10111,-13171,0,12,5000,input in balance column is an outlier
+1779,65126905.0,A,5366.0,606.0,2021-10-05 00:00:00,D,15481,19898,0,3,5000,input in balance column is an outlier
+1780,65128045.0,A,1563.0,5675.0,2021-10-05 00:00:00,D,1158,-18117,0,3,5000,input in balance column is an outlier
+1781,65128081.0,A,247.0,5841.0,2021-10-05 00:00:00,D,-5317,-13657,0,3,5000,input in balance column is an outlier
+1782,65129377.0,A,571.0,6603.0,2021-10-05 00:00:00,D,-1462,-13037,0,3,5000,input in balance column is an outlier
+1783,55581824.0,A,1817.0,6198.0,2021-10-05 00:00:00,D,2489,-13670,0,3,5000,input in balance column is an outlier
+1784,32211568.0,A,5520.0,617.0,2021-10-05 00:00:00,D,17669,17934,0,3,5000,input in balance column is an outlier
+1785,32213262.0,A,5742.0,1555.0,2021-10-05 00:00:00,D,16536,18763,0,3,1000,input in balance column is an outlier
+1786,20441354.0,A,4314.0,5634.0,2021-10-05 00:00:00,D,-14991,-15417,0,3,1000,input in balance column is an outlier
+1787,20442289.0,A,2641.0,2542.0,2021-10-05 00:00:00,D,-10077,-14457,0,3,1000,input in balance column is an outlier
+1788,20445995.0,A,2136.0,6517.0,2021-10-05 00:00:00,D,1873,-13851,0,4,1000,input in balance column is an outlier
+1789,20446641.0,A,600.0,2840.0,2021-10-05 00:00:00,D,-9307,-14948,0,4,1000,input in balance column is an outlier
+1790,20448630.0,A,2893.0,4585.0,2021-10-05 00:00:00,D,-8615,-14554,0,4,1000,input in balance column is an outlier
+1791,20449344.0,B,413.0,3790.0,2021-10-05 00:00:00,D,-1845,-13832,0,4,1000,input in balance column is an outlier
+1792,20450041.0,B,145.0,6148.0,2021-10-05 00:00:00,D,1096,-13166,0,4,1000,input in balance column is an outlier
+1793,88102629.0,B,328.0,6988.0,2021-10-05 00:00:00,D,-12700,-15926,0,4,1000,input in balance column is an outlier
+1794,88779112.0,B,1248.0,3194.0,2021-10-05 00:00:00,D,205,-15458,9,4,1000,input in balance column is an outlier
+1795,88779130.0,B,677.0,5197.0,2021-10-05 00:00:00,D,1634,-13385,0,4,1000,input in balance column is an outlier
+1796,88779661.0,B,3277.0,5072.0,2021-10-05 00:00:00,D,-12193,-15782,0,0,1000,input in balance column is an outlier
+1797,78794825.0,B,1314.0,6805.0,2021-10-05 00:00:00,D,2771,-16733,0,0,3000,input in balance column is an outlier
+1798,78796109.0,B,83.0,6021.0,2021-10-05 00:00:00,D,-146,-14925,0,4,3000,input in balance column is an outlier
+1799,78797069.0,B,3368.0,6191.0,2021-10-05 00:00:00,D,-6993,-14065,0,4,3000,input in balance column is an outlier
+1800,33211629.0,B,5442.0,143.0,2021-10-05 00:00:00,D,3309,20058,0,4,3000,input in balance column is an outlier
+1801,44774753.0,B,3347.0,1166.0,2021-10-05 00:00:00,D,-4087,20356,0,4,3000,input in balance column is an outlier
+1802,44774960.0,B,2887.0,6137.0,2021-10-05 00:00:00,D,-1281,-15372,0,6,1000,input in balance column is an outlier
+1803,47123172.0,A,2377.0,4023.0,2021-11-05 00:00:00,D,312,-14499,0,4,1000,input in balance column is an outlier
+1804,47123208.0,A,317.0,6969.0,2021-11-05 00:00:00,D,-3066,-13058,0,4,1000,input in balance column is an outlier
+1805,47123220.0,A,1676.0,6266.0,2021-11-05 00:00:00,D,1796,-13783,0,4,1000,input in balance column is an outlier
+1806,47123256.0,A,1190.0,6432.0,2021-11-05 00:00:00,D,-6571,-13393,0,4,1000,input in balance column is an outlier
+1807,47123292.0,A,213.0,6828.0,2021-11-05 00:00:00,D,7323,-13745,0,4,1000,input in balance column is an outlier
+1808,47124144.0,A,5926.0,577.0,2021-11-05 00:00:00,D,13596,18750,0,4,1000,input in balance column is an outlier
+1809,47124312.0,A,281.0,4583.0,2021-11-05 00:00:00,D,-11196,-13617,0,4,1000,input in balance column is an outlier
+1810,47124552.0,A,1824.0,6927.0,2021-11-05 00:00:00,D,2426,-17975,0,4,1000,input in balance column is an outlier
+1811,47125068.0,A,579.0,6628.0,2021-11-05 00:00:00,D,-6110,-14292,0,4,1000,input in balance column is an outlier
+1812,47127672.0,A,5814.0,637.0,2021-11-05 00:00:00,D,4310,18839,0,7,1000,input in balance column is an outlier
+1813,47127984.0,A,2938.0,5750.0,2021-11-05 00:00:00,D,-4091,-14454,0,7,1000,input in balance column is an outlier
+1814,47128164.0,A,1165.0,6255.0,2021-11-05 00:00:00,D,-3476,-17252,0,7,1000,input in balance column is an outlier
+1815,47128176.0,A,5.0,5830.0,2021-11-05 00:00:00,D,-13295,-13523,0,7,1000,input in balance column is an outlier
+1816,47128992.0,A,3286.0,268.0,2021-11-05 00:00:00,D,271,17722,0,12,1000,input in balance column is an outlier
+1817,47129136.0,A,3712.0,403.0,2021-11-05 00:00:00,D,-1579,18002,0,12,1000,input in balance column is an outlier
+1818,47129172.0,A,1893.0,6187.0,2021-11-05 00:00:00,D,-12983,-14100,0,12,1000,input in balance column is an outlier
+1819,47129892.0,A,167.0,6101.0,2021-11-05 00:00:00,D,-8688,-15267,0,12,1000,input in balance column is an outlier
+1820,47130336.0,A,67.0,2967.0,2021-11-05 00:00:00,D,-9616,-13759,0,12,5000,input in balance column is an outlier
+1821,47130528.0,A,1173.0,5775.0,2021-11-05 00:00:00,D,-5942,-15685,0,12,5000,input in balance column is an outlier
+1822,47131356.0,A,274.0,6753.0,2021-11-05 00:00:00,D,-8446,-15859,0,12,5000,input in balance column is an outlier
+1823,47132160.0,A,3387.0,3224.0,2021-11-05 00:00:00,D,8247,18664,0,12,5000,input in balance column is an outlier
+1824,47132208.0,A,2990.0,5657.0,2021-11-05 00:00:00,D,-1991,-13623,0,12,5000,input in balance column is an outlier
+1825,47132736.0,A,1632.0,1054.0,2021-11-05 00:00:00,D,-10225,-13892,0,12,5000,input in balance column is an outlier
+1826,47133120.0,A,5640.0,2856.0,2021-11-05 00:00:00,D,5292,21430,0,12,5000,input in balance column is an outlier
+1827,47133132.0,A,531.0,5540.0,2021-11-05 00:00:00,D,3836,-15552,0,12,5000,input in balance column is an outlier
+1828,47133504.0,A,2344.0,3079.0,2021-11-05 00:00:00,D,-6274,-13066,0,12,5000,input in balance column is an outlier
+1829,47134284.0,A,1079.0,6019.0,2021-11-05 00:00:00,D,1617,-18837,0,12,5000,input in balance column is an outlier
+1830,47134356.0,A,3573.0,30.0,2021-11-05 00:00:00,D,13088,21546,0,12,5000,input in balance column is an outlier
+1831,47134536.0,A,403.0,5790.0,2021-11-05 00:00:00,D,-17583,-18437,0,12,5000,input in balance column is an outlier
+1832,47135388.0,A,2965.0,5228.0,2021-11-05 00:00:00,D,-9759,-14301,0,12,5000,input in balance column is an outlier
+1833,47135604.0,A,457.0,6534.0,2021-11-05 00:00:00,D,4787,-16886,0,12,5000,input in balance column is an outlier
+1834,45124246.0,A,2270.0,5327.0,2021-11-05 00:00:00,D,-5573,-14805,0,12,5000,input in balance column is an outlier
+1835,45124330.0,A,3491.0,3145.0,2021-11-05 00:00:00,D,-4913,-14052,0,12,5000,input in balance column is an outlier
+1836,45124618.0,A,3183.0,5662.0,2021-11-05 00:00:00,D,-4456,-13962,0,12,5000,input in balance column is an outlier
+1837,45124630.0,A,56.0,6113.0,2021-11-05 00:00:00,D,-14391,-17178,0,12,5000,input in balance column is an outlier
+1838,45124846.0,A,910.0,5994.0,2021-11-05 00:00:00,D,-7764,-15038,0,12,5000,input in balance column is an outlier
+1839,45125062.0,A,1312.0,6909.0,2021-11-05 00:00:00,D,232,-13521,0,12,5000,input in balance column is an outlier
+1840,45125170.0,A,201.0,5083.0,2021-11-05 00:00:00,D,-10286,-14130,0,12,5000,input in balance column is an outlier
+1841,45125494.0,A,2382.0,6303.0,2021-11-05 00:00:00,D,-4360,-14901,0,12,5000,input in balance column is an outlier
+1842,45125662.0,A,904.0,4617.0,2021-11-05 00:00:00,D,-10497,-16367,0,12,5000,input in balance column is an outlier
+1843,45125842.0,A,5889.0,2636.0,2021-11-05 00:00:00,D,1259,17947,0,12,5000,input in balance column is an outlier
+1844,65122069.0,A,27.0,4841.0,2021-11-05 00:00:00,D,-9795,-13875,0,12,5000,input in balance column is an outlier
+1845,65122873.0,A,2535.0,5975.0,2021-11-05 00:00:00,D,-9919,-15433,0,12,5000,input in balance column is an outlier
+1846,65122909.0,A,3143.0,5804.0,2021-11-05 00:00:00,D,-5281,-15108,0,12,5000,input in balance column is an outlier
+1847,65123581.0,A,2580.0,6983.0,2021-11-05 00:00:00,D,-6103,-14700,0,12,5000,input in balance column is an outlier
+1848,65124349.0,A,3833.0,5185.0,2021-11-05 00:00:00,D,11389,-15492,0,12,5000,input in balance column is an outlier
+1849,65125369.0,A,3273.0,219.0,2021-11-05 00:00:00,D,9300,17989,0,3,5000,input in balance column is an outlier
+1850,65126809.0,A,967.0,6779.0,2021-11-05 00:00:00,D,-7265,-13829,0,3,5000,input in balance column is an outlier
+1851,65126905.0,A,3958.0,2117.0,2021-11-05 00:00:00,D,4645,21739,0,3,5000,input in balance column is an outlier
+1852,65127697.0,A,263.0,4209.0,2021-11-05 00:00:00,D,-3882,-13318,0,3,5000,input in balance column is an outlier
+1853,65128045.0,A,2453.0,5816.0,2021-11-05 00:00:00,D,-11776,-21480,0,3,5000,input in balance column is an outlier
+1854,65128081.0,A,208.0,4165.0,2021-11-05 00:00:00,D,-10994,-17614,0,3,5000,input in balance column is an outlier
+1855,65128153.0,A,3507.0,4773.0,2021-11-05 00:00:00,D,-481,-13241,0,3,5000,input in balance column is an outlier
+1856,65128381.0,A,1558.0,6968.0,2021-11-05 00:00:00,D,-5812,-13916,8,3,5000,input in balance column is an outlier
+1857,65129869.0,A,2283.0,6949.0,2021-11-05 00:00:00,D,-13185,-14254,0,3,5000,input in balance column is an outlier
+1858,55580549.0,A,521.0,6803.0,2021-11-05 00:00:00,D,-13823,-17635,0,3,5000,input in balance column is an outlier
+1859,55580624.0,A,388.0,4880.0,2021-11-05 00:00:00,D,-7067,-17338,0,3,5000,input in balance column is an outlier
+1860,55581824.0,A,4685.0,4120.0,2021-11-05 00:00:00,D,2907,-13105,0,3,5000,input in balance column is an outlier
+1861,55582524.0,A,469.0,6986.0,2021-11-05 00:00:00,D,-13003,-16010,0,3,5000,input in balance column is an outlier
+1862,32211974.0,A,4671.0,5519.0,2021-11-05 00:00:00,D,-7451,-13801,0,3,1000,input in balance column is an outlier
+1863,32212394.0,A,3385.0,2040.0,2021-11-05 00:00:00,D,11854,18232,0,3,1000,input in balance column is an outlier
+1864,32213241.0,A,439.0,3282.0,2021-11-05 00:00:00,D,-12208,-14214,0,3,1000,input in balance column is an outlier
+1865,32213262.0,A,4350.0,4909.0,2021-11-05 00:00:00,D,4550,18204,0,3,1000,input in balance column is an outlier
+1866,20441694.0,A,4437.0,191.0,2021-11-05 00:00:00,D,11891,19943,0,3,1000,input in balance column is an outlier
+1867,20442051.0,A,4636.0,5698.0,2021-11-05 00:00:00,D,-6518,-13477,0,3,1000,input in balance column is an outlier
+1868,20442204.0,A,4747.0,960.0,2021-11-05 00:00:00,D,16354,17858,0,3,1000,input in balance column is an outlier
+1869,20442289.0,A,2330.0,2790.0,2021-11-05 00:00:00,D,-2100,-14917,0,3,1000,input in balance column is an outlier
+1870,20444703.0,A,226.0,2054.0,2021-11-05 00:00:00,D,1195,-13691,0,4,1000,input in balance column is an outlier
+1871,20444941.0,A,5731.0,36.0,2021-11-05 00:00:00,D,14458,19695,0,4,1000,input in balance column is an outlier
+1872,20445842.0,A,18.0,6859.0,2021-11-05 00:00:00,D,1151,-14038,0,4,1000,input in balance column is an outlier
+1873,20445944.0,A,5614.0,2614.0,2021-11-05 00:00:00,D,6484,18571,0,4,1000,input in balance column is an outlier
+1874,20446641.0,A,2227.0,6009.0,2021-11-05 00:00:00,D,-14055,-18730,0,4,1000,input in balance column is an outlier
+1875,20446879.0,A,266.0,6488.0,2021-11-05 00:00:00,D,-16504,-17788,0,4,1000,input in balance column is an outlier
+1876,20448630.0,A,776.0,6643.0,2021-11-05 00:00:00,D,-19052,-20421,0,4,1000,input in balance column is an outlier
+1877,20449344.0,B,1666.0,4691.0,2021-11-05 00:00:00,D,-14187,-16857,0,4,1000,input in balance column is an outlier
+1878,20450806.0,B,633.0,4061.0,2021-11-05 00:00:00,D,-4072,-15447,0,4,1000,input in balance column is an outlier
+1879,88102629.0,B,656.0,6704.0,2021-11-05 00:00:00,D,-21805,-21974,0,4,1000,input in balance column is an outlier
+1880,88779016.0,B,729.0,3601.0,2021-11-05 00:00:00,D,-4044,-14028,0,4,1000,input in balance column is an outlier
+1881,88779085.0,B,293.0,5067.0,2021-11-05 00:00:00,D,2760,-15475,5,4,1000,input in balance column is an outlier
+1882,88779112.0,B,1439.0,2383.0,2021-11-05 00:00:00,D,-477,-16402,7,4,1000,input in balance column is an outlier
+1883,88779130.0,B,2785.0,3489.0,2021-11-05 00:00:00,D,-2640,-14089,0,4,1000,input in balance column is an outlier
+1884,88780120.0,B,2886.0,110.0,2021-11-05 00:00:00,D,7139,18530,0,0,1000,input in balance column is an outlier
+1885,88780432.0,B,5821.0,4174.0,2021-11-05 00:00:00,D,16976,18386,0,0,1000,input in balance column is an outlier
+1886,78794825.0,B,2131.0,4119.0,2021-11-05 00:00:00,D,-11438,-18721,0,0,3000,input in balance column is an outlier
+1887,78794885.0,B,1659.0,6159.0,2021-11-05 00:00:00,D,-7966,-15240,0,0,3000,input in balance column is an outlier
+1888,78795041.0,B,5083.0,108.0,2021-11-05 00:00:00,D,2965,20425,0,0,3000,input in balance column is an outlier
+1889,78795125.0,B,5027.0,925.0,2021-11-05 00:00:00,D,15318,20422,0,0,3000,input in balance column is an outlier
+1890,78795413.0,B,4364.0,404.0,2021-11-05 00:00:00,D,17698,20381,0,0,3000,input in balance column is an outlier
+1891,78795575.0,B,310.0,2518.0,2021-11-05 00:00:00,D,499,-14159,0,0,3000,input in balance column is an outlier
+1892,78795887.0,B,5504.0,3375.0,2021-11-05 00:00:00,D,16671,19303,0,0,3000,input in balance column is an outlier
+1893,78796109.0,B,1557.0,1610.0,2021-11-05 00:00:00,D,-12443,-14978,0,4,3000,input in balance column is an outlier
+1894,78796121.0,B,4256.0,5788.0,2021-11-05 00:00:00,D,-10021,-13744,0,4,3000,input in balance column is an outlier
+1895,78796469.0,B,1631.0,3655.0,2021-11-05 00:00:00,D,300,-13496,0,4,3000,input in balance column is an outlier
+1896,78797015.0,B,1407.0,6747.0,2021-11-05 00:00:00,D,-2453,-13401,0,4,3000,input in balance column is an outlier
+1897,78797069.0,B,4675.0,5405.0,2021-11-05 00:00:00,D,-12839,-14795,0,4,3000,input in balance column is an outlier
+1898,33211629.0,B,3099.0,528.0,2021-11-05 00:00:00,D,8221,22629,0,4,3000,input in balance column is an outlier
+1899,33211692.0,B,1600.0,5843.0,2021-11-05 00:00:00,D,-11676,-16466,0,4,3000,input in balance column is an outlier
+1900,44774753.0,B,3304.0,2742.0,2021-11-05 00:00:00,D,-1660,20918,0,4,3000,input in balance column is an outlier
+1901,44774789.0,B,2260.0,169.0,2021-11-05 00:00:00,D,3917,19609,0,4,3000,input in balance column is an outlier
+1902,44774960.0,B,4964.0,5122.0,2021-11-05 00:00:00,D,-622,-15530,0,6,1000,input in balance column is an outlier
+1903,44775014.0,B,2208.0,5686.0,2021-11-05 00:00:00,D,-4725,-13408,0,6,1000,input in balance column is an outlier
+1905,10011144.0,A,2000.0,4776.0,2021-06-03 00:00:00,D,-10345,1224,3,4,1000,input in rejected_payments column is an outlier
+1906,65122777.0,A,4321.0,5177.0,2021-06-03 00:00:00,D,6932,3144,3,12,5000,input in rejected_payments column is an outlier
+1907,65127973.0,A,763.0,2873.0,2021-06-03 00:00:00,D,1943,1890,8,3,5000,input in rejected_payments column is an outlier
+1908,65127985.0,A,654.0,3055.0,2021-06-03 00:00:00,D,2385,1599,6,3,5000,input in rejected_payments column is an outlier
+1909,65127997.0,A,746.0,4025.0,2021-06-03 00:00:00,D,-1061,721,10,3,5000,input in rejected_payments column is an outlier
+1910,65128033.0,A,3944.0,1603.0,2021-06-03 00:00:00,D,937,6341,8,3,5000,input in rejected_payments column is an outlier
+1911,65128261.0,A,4054.0,4190.0,2021-06-03 00:00:00,D,3659,3864,4,3,5000,input in rejected_payments column is an outlier
+1912,65128273.0,A,5682.0,977.0,2021-06-03 00:00:00,D,7617,8705,4,3,5000,input in rejected_payments column is an outlier
+1913,65128309.0,A,2933.0,2558.0,2021-06-03 00:00:00,D,3085,4375,3,3,5000,input in rejected_payments column is an outlier
+1914,65128321.0,A,5252.0,4048.0,2021-06-03 00:00:00,D,-1931,5204,5,3,5000,input in rejected_payments column is an outlier
+1915,65128345.0,A,4929.0,4480.0,2021-06-03 00:00:00,D,1083,4449,3,3,5000,input in rejected_payments column is an outlier
+1916,65128369.0,A,104.0,3104.0,2021-06-03 00:00:00,D,4634,1000,5,3,5000,input in rejected_payments column is an outlier
+1917,65128381.0,A,3117.0,5308.0,2021-06-03 00:00:00,D,-13875,1809,4,3,5000,input in rejected_payments column is an outlier
+1918,32213150.0,A,5321.0,6103.0,2021-06-03 00:00:00,D,11836,3218,10,3,1000,input in rejected_payments column is an outlier
+1919,32213157.0,A,4840.0,3819.0,2021-06-03 00:00:00,D,-483,5021,5,3,1000,input in rejected_payments column is an outlier
+1920,32213164.0,A,1062.0,6049.0,2021-06-03 00:00:00,D,-3439,-987,10,3,1000,input in rejected_payments column is an outlier
+1921,32213171.0,A,2059.0,6993.0,2021-06-03 00:00:00,D,-1001,-934,7,3,1000,input in rejected_payments column is an outlier
+1922,32213192.0,A,5189.0,6895.0,2021-06-03 00:00:00,D,-2999,2294,10,3,1000,input in rejected_payments column is an outlier
+1923,32213199.0,A,5550.0,395.0,2021-06-03 00:00:00,D,1887,9155,7,3,1000,input in rejected_payments column is an outlier
+1924,32213206.0,A,2801.0,4043.0,2021-06-03 00:00:00,D,4370,2758,8,3,1000,input in rejected_payments column is an outlier
+1925,32213213.0,A,5369.0,3642.0,2021-06-03 00:00:00,D,5038,5727,8,3,1000,input in rejected_payments column is an outlier
+1926,32213220.0,A,1164.0,190.0,2021-06-03 00:00:00,D,5185,4974,8,3,1000,input in rejected_payments column is an outlier
+1927,32213227.0,A,5989.0,1948.0,2021-06-03 00:00:00,D,84,8041,6,3,1000,input in rejected_payments column is an outlier
+1928,88779088.0,B,1443.0,2426.0,2021-06-03 00:00:00,D,2493,3017,10,4,1000,input in rejected_payments column is an outlier
+1929,88779091.0,B,3216.0,4914.0,2021-06-03 00:00:00,D,-2900,2302,7,4,1000,input in rejected_payments column is an outlier
+1930,88779094.0,B,1929.0,2200.0,2021-06-03 00:00:00,D,2609,3729,5,4,1000,input in rejected_payments column is an outlier
+1931,88779097.0,B,4214.0,1294.0,2021-06-03 00:00:00,D,1883,6920,8,4,1000,input in rejected_payments column is an outlier
+1932,88779100.0,B,2166.0,4077.0,2021-06-03 00:00:00,D,1146,2089,10,4,1000,input in rejected_payments column is an outlier
+1933,88779103.0,B,3435.0,5126.0,2021-06-03 00:00:00,D,-2300,2309,9,4,1000,input in rejected_payments column is an outlier
+1934,88779106.0,B,4256.0,2948.0,2021-06-03 00:00:00,D,4289,5308,6,4,1000,input in rejected_payments column is an outlier
+1935,88779109.0,B,5715.0,1567.0,2021-06-03 00:00:00,D,5955,8148,4,4,1000,input in rejected_payments column is an outlier
+1936,88779112.0,B,772.0,4226.0,2021-06-03 00:00:00,D,-7794,546,7,4,1000,input in rejected_payments column is an outlier
+1937,88779115.0,B,5881.0,6690.0,2021-06-03 00:00:00,D,5540,3191,7,4,1000,input in rejected_payments column is an outlier
+1938,88780216.0,B,1895.0,2763.0,2021-06-03 00:00:00,D,4371,3132,7,0,1000,input in rejected_payments column is an outlier
+1939,88780219.0,B,1488.0,5376.0,2021-06-03 00:00:00,D,-1654,112,8,0,1000,input in rejected_payments column is an outlier
+1940,88780222.0,B,2634.0,778.0,2021-06-03 00:00:00,D,4574,5856,9,0,1000,input in rejected_payments column is an outlier
+1941,88780225.0,B,2904.0,3048.0,2021-06-03 00:00:00,D,-178,3856,3,0,1000,input in rejected_payments column is an outlier
+1942,88780234.0,B,2388.0,2361.0,2021-06-03 00:00:00,D,3157,4027,7,0,1000,input in rejected_payments column is an outlier
+1943,88780237.0,B,5452.0,5508.0,2021-06-03 00:00:00,D,3798,3944,6,0,1000,input in rejected_payments column is an outlier
+1944,88780243.0,B,1069.0,2931.0,2021-06-03 00:00:00,D,2495,2138,4,0,1000,input in rejected_payments column is an outlier
+1945,88780249.0,B,3411.0,1350.0,2021-06-03 00:00:00,D,3570,6061,10,0,1000,input in rejected_payments column is an outlier
+1946,44774669.0,B,3365.0,992.0,2021-06-03 00:00:00,D,-1171,6373,5,4,3000,input in rejected_payments column is an outlier
+1947,44774672.0,B,2220.0,1875.0,2021-06-03 00:00:00,D,-1988,4345,5,4,3000,input in rejected_payments column is an outlier
+1948,44774675.0,B,5946.0,777.0,2021-06-03 00:00:00,D,3412,9169,8,4,3000,input in rejected_payments column is an outlier
+1949,44774678.0,B,1407.0,4738.0,2021-06-03 00:00:00,D,-317,669,5,4,3000,input in rejected_payments column is an outlier
+1950,44774681.0,B,616.0,3408.0,2021-06-03 00:00:00,D,650,1208,4,4,3000,input in rejected_payments column is an outlier
+1951,44774684.0,B,2693.0,6045.0,2021-06-03 00:00:00,D,-5194,648,5,4,3000,input in rejected_payments column is an outlier
+1952,44774687.0,B,2286.0,1977.0,2021-06-03 00:00:00,D,2876,4309,9,4,3000,input in rejected_payments column is an outlier
+1953,44774690.0,B,3144.0,2961.0,2021-06-03 00:00:00,D,-5509,4183,10,4,3000,input in rejected_payments column is an outlier
+1954,44774696.0,B,3105.0,3179.0,2021-06-03 00:00:00,D,9855,3926,4,4,3000,input in rejected_payments column is an outlier
+1955,65127973.0,A,1870.0,2651.0,2021-07-04 00:00:00,D,3267,1109,4,3,5000,input in rejected_payments column is an outlier
+1956,65127985.0,A,4703.0,2341.0,2021-07-04 00:00:00,D,5091,3961,5,3,5000,input in rejected_payments column is an outlier
+1957,65127997.0,A,333.0,2315.0,2021-07-04 00:00:00,D,-2922,-1261,7,3,5000,input in rejected_payments column is an outlier
+1958,65128009.0,A,5920.0,2408.0,2021-07-04 00:00:00,D,10174,6421,4,3,5000,input in rejected_payments column is an outlier
+1959,65128021.0,A,1183.0,5082.0,2021-07-04 00:00:00,D,-3810,-4849,8,3,5000,input in rejected_payments column is an outlier
+1960,65128033.0,A,3695.0,6192.0,2021-07-04 00:00:00,D,-1094,3844,5,3,5000,input in rejected_payments column is an outlier
+1961,65128273.0,A,2665.0,3887.0,2021-07-04 00:00:00,D,7378,7483,6,3,5000,input in rejected_payments column is an outlier
+1962,65128285.0,A,5284.0,1389.0,2021-07-04 00:00:00,D,-180,8138,5,3,5000,input in rejected_payments column is an outlier
+1963,65128297.0,A,5533.0,1731.0,2021-07-04 00:00:00,D,3192,5188,10,3,5000,input in rejected_payments column is an outlier
+1964,65128309.0,A,2912.0,4856.0,2021-07-04 00:00:00,D,-339,2431,9,3,5000,input in rejected_payments column is an outlier
+1965,65128321.0,A,1482.0,3156.0,2021-07-04 00:00:00,D,2376,3530,7,3,5000,input in rejected_payments column is an outlier
+1966,65128333.0,A,4320.0,3747.0,2021-07-04 00:00:00,D,3707,6387,8,3,5000,input in rejected_payments column is an outlier
+1967,65128357.0,A,3139.0,2466.0,2021-07-04 00:00:00,D,2304,2807,7,3,5000,input in rejected_payments column is an outlier
+1968,65128381.0,A,2699.0,5949.0,2021-07-04 00:00:00,D,-2028,-1441,5,3,5000,input in rejected_payments column is an outlier
+1969,32213150.0,A,5459.0,422.0,2021-07-04 00:00:00,D,8056,8255,3,3,1000,input in rejected_payments column is an outlier
+1970,32213157.0,A,4229.0,5985.0,2021-07-04 00:00:00,D,2444,3265,6,3,1000,input in rejected_payments column is an outlier
+1971,32213164.0,A,4298.0,2767.0,2021-07-04 00:00:00,D,-45,544,6,3,1000,input in rejected_payments column is an outlier
+1972,32213171.0,A,807.0,6328.0,2021-07-04 00:00:00,D,-8630,-6455,5,3,1000,input in rejected_payments column is an outlier
+1973,32213178.0,A,3543.0,3986.0,2021-07-04 00:00:00,D,2065,3220,8,3,1000,input in rejected_payments column is an outlier
+1974,32213185.0,A,1228.0,3424.0,2021-07-04 00:00:00,D,-6894,-2390,9,3,1000,input in rejected_payments column is an outlier
+1975,32213192.0,A,2175.0,4682.0,2021-07-04 00:00:00,D,-2539,-213,8,3,1000,input in rejected_payments column is an outlier
+1976,32213199.0,A,5107.0,6783.0,2021-07-04 00:00:00,D,4797,7479,3,3,1000,input in rejected_payments column is an outlier
+1977,32213213.0,A,4314.0,1760.0,2021-07-04 00:00:00,D,7746,8281,3,3,1000,input in rejected_payments column is an outlier
+1978,32213227.0,A,5305.0,4471.0,2021-07-04 00:00:00,D,6624,8875,5,3,1000,input in rejected_payments column is an outlier
+1979,88779085.0,B,1463.0,230.0,2021-07-04 00:00:00,D,-12322,1632,7,4,1000,input in rejected_payments column is an outlier
+1980,88779088.0,B,3353.0,3219.0,2021-07-04 00:00:00,D,2114,3151,5,4,1000,input in rejected_payments column is an outlier
+1981,88779091.0,B,4155.0,6727.0,2021-07-04 00:00:00,D,-1168,-270,5,4,1000,input in rejected_payments column is an outlier
+1982,88779094.0,B,316.0,2305.0,2021-07-04 00:00:00,D,-3584,1740,5,4,1000,input in rejected_payments column is an outlier
+1983,88779097.0,B,3126.0,5824.0,2021-07-04 00:00:00,D,4165,4222,6,4,1000,input in rejected_payments column is an outlier
+1984,88779100.0,B,2805.0,6951.0,2021-07-04 00:00:00,D,-3119,-2057,4,4,1000,input in rejected_payments column is an outlier
+1985,88779103.0,B,1705.0,6834.0,2021-07-04 00:00:00,D,-1865,-2820,10,4,1000,input in rejected_payments column is an outlier
+1986,88779106.0,B,5948.0,2746.0,2021-07-04 00:00:00,D,7155,8510,5,4,1000,input in rejected_payments column is an outlier
+1987,88779109.0,B,1679.0,2088.0,2021-07-04 00:00:00,D,3593,7739,5,4,1000,input in rejected_payments column is an outlier
+1988,88779112.0,B,2948.0,6162.0,2021-07-04 00:00:00,D,-11293,-2668,3,4,1000,input in rejected_payments column is an outlier
+1989,88779115.0,B,2816.0,2629.0,2021-07-04 00:00:00,D,4159,3378,7,4,1000,input in rejected_payments column is an outlier
+1990,88779118.0,B,94.0,6708.0,2021-07-04 00:00:00,D,1529,-1339,8,4,1000,input in rejected_payments column is an outlier
+1991,88780216.0,B,2841.0,1571.0,2021-07-04 00:00:00,D,5442,4402,10,0,1000,input in rejected_payments column is an outlier
+1992,88780222.0,B,5802.0,2582.0,2021-07-04 00:00:00,D,3194,9076,8,0,1000,input in rejected_payments column is an outlier
+1993,88780225.0,B,2701.0,4425.0,2021-07-04 00:00:00,D,-747,2132,7,0,1000,input in rejected_payments column is an outlier
+1994,88780228.0,B,2163.0,5079.0,2021-07-04 00:00:00,D,3101,1921,5,0,1000,input in rejected_payments column is an outlier
+1995,88780231.0,B,702.0,6245.0,2021-07-04 00:00:00,D,-662,123,10,0,1000,input in rejected_payments column is an outlier
+1996,88780234.0,B,1215.0,6993.0,2021-07-04 00:00:00,D,-911,-1751,9,0,1000,input in rejected_payments column is an outlier
+1997,88780240.0,B,4347.0,2501.0,2021-07-04 00:00:00,D,-1108,5637,7,0,1000,input in rejected_payments column is an outlier
+1998,88780243.0,B,4314.0,228.0,2021-07-04 00:00:00,D,7985,6224,9,0,1000,input in rejected_payments column is an outlier
+1999,88780246.0,B,4777.0,5767.0,2021-07-04 00:00:00,D,2725,3080,8,0,1000,input in rejected_payments column is an outlier
+2000,44774669.0,B,2430.0,982.0,2021-07-04 00:00:00,D,-1204,7821,7,4,3000,input in rejected_payments column is an outlier
+2001,44774672.0,B,356.0,2621.0,2021-07-04 00:00:00,D,2649,2080,3,4,3000,input in rejected_payments column is an outlier
+2002,44774681.0,B,5670.0,1104.0,2021-07-04 00:00:00,D,-3984,5774,6,4,3000,input in rejected_payments column is an outlier
+2003,44774687.0,B,5506.0,3794.0,2021-07-04 00:00:00,D,5969,6021,9,4,3000,input in rejected_payments column is an outlier
+2004,44774690.0,B,3523.0,6469.0,2021-07-04 00:00:00,D,-464,1237,6,4,3000,input in rejected_payments column is an outlier
+2005,44774693.0,B,5889.0,5003.0,2021-07-04 00:00:00,D,9334,9955,9,4,3000,input in rejected_payments column is an outlier
+2006,44774699.0,B,3919.0,6208.0,2021-07-04 00:00:00,D,-2098,446,4,4,3000,input in rejected_payments column is an outlier
+2007,65127973.0,A,3923.0,471.0,2021-08-04 00:00:00,D,1650,4561,7,3,5000,input in rejected_payments column is an outlier
+2008,65128009.0,A,5606.0,3223.0,2021-08-04 00:00:00,D,10068,8804,10,3,5000,input in rejected_payments column is an outlier
+2009,65128021.0,A,4871.0,2341.0,2021-08-04 00:00:00,D,-835,-2319,3,3,5000,input in rejected_payments column is an outlier
+2010,65128249.0,A,3901.0,456.0,2021-08-04 00:00:00,D,4626,6578,3,3,5000,input in rejected_payments column is an outlier
+2011,65128297.0,A,2613.0,3332.0,2021-08-04 00:00:00,D,2236,4469,4,3,5000,input in rejected_payments column is an outlier
+2012,65128309.0,A,1637.0,6825.0,2021-08-04 00:00:00,D,3356,-2757,6,3,5000,input in rejected_payments column is an outlier
+2013,65128321.0,A,1476.0,5303.0,2021-08-04 00:00:00,D,-955,-297,10,3,5000,input in rejected_payments column is an outlier
+2014,65128333.0,A,3010.0,3479.0,2021-08-04 00:00:00,D,586,5918,3,3,5000,input in rejected_payments column is an outlier
+2015,65128345.0,A,5017.0,4313.0,2021-08-04 00:00:00,D,1078,3069,7,3,5000,input in rejected_payments column is an outlier
+2016,65128357.0,A,4839.0,5595.0,2021-08-04 00:00:00,D,-4206,2051,3,3,5000,input in rejected_payments column is an outlier
+2017,65128369.0,A,1248.0,6659.0,2021-08-04 00:00:00,D,967,376,6,3,5000,input in rejected_payments column is an outlier
+2018,65128381.0,A,1700.0,6325.0,2021-08-04 00:00:00,D,-13336,-6066,8,3,5000,input in rejected_payments column is an outlier
+2019,32213157.0,A,3387.0,3645.0,2021-08-04 00:00:00,D,-4171,3007,5,3,1000,input in rejected_payments column is an outlier
+2020,32213171.0,A,5546.0,6613.0,2021-08-04 00:00:00,D,-1119,-7522,7,3,1000,input in rejected_payments column is an outlier
+2021,32213178.0,A,1269.0,5610.0,2021-08-04 00:00:00,D,4307,-1121,3,3,1000,input in rejected_payments column is an outlier
+2022,32213185.0,A,2155.0,3977.0,2021-08-04 00:00:00,D,-7122,-4212,7,3,1000,input in rejected_payments column is an outlier
+2023,32213192.0,A,2826.0,6083.0,2021-08-04 00:00:00,D,6770,-3470,5,3,1000,input in rejected_payments column is an outlier
+2024,32213206.0,A,157.0,6778.0,2021-08-04 00:00:00,D,1261,-1757,8,3,1000,input in rejected_payments column is an outlier
+2025,32213213.0,A,2005.0,6582.0,2021-08-04 00:00:00,D,7957,3704,4,3,1000,input in rejected_payments column is an outlier
+2026,32213227.0,A,700.0,5921.0,2021-08-04 00:00:00,D,5771,3654,7,3,1000,input in rejected_payments column is an outlier
+2027,88779085.0,B,4520.0,6200.0,2021-08-04 00:00:00,D,736,-48,7,4,1000,input in rejected_payments column is an outlier
+2028,88779088.0,B,126.0,3857.0,2021-08-04 00:00:00,D,159,-580,8,4,1000,input in rejected_payments column is an outlier
+2029,88779100.0,B,5080.0,1113.0,2021-08-04 00:00:00,D,1196,1910,3,4,1000,input in rejected_payments column is an outlier
+2030,88779103.0,B,2084.0,5977.0,2021-08-04 00:00:00,D,1569,-6713,4,4,1000,input in rejected_payments column is an outlier
+2031,88779106.0,B,593.0,5178.0,2021-08-04 00:00:00,D,4405,3925,9,4,1000,input in rejected_payments column is an outlier
+2032,88779109.0,B,1233.0,1749.0,2021-08-04 00:00:00,D,2536,7223,9,4,1000,input in rejected_payments column is an outlier
+2033,88779115.0,B,3526.0,4628.0,2021-08-04 00:00:00,D,5667,2276,8,4,1000,input in rejected_payments column is an outlier
+2034,88779118.0,B,5742.0,6241.0,2021-08-04 00:00:00,D,-1341,-1838,6,4,1000,input in rejected_payments column is an outlier
+2035,88780216.0,B,5332.0,4657.0,2021-08-04 00:00:00,D,2987,5077,3,0,1000,input in rejected_payments column is an outlier
+2036,88780222.0,B,207.0,6379.0,2021-08-04 00:00:00,D,2583,2904,5,0,1000,input in rejected_payments column is an outlier
+2037,88780225.0,B,3709.0,3742.0,2021-08-04 00:00:00,D,-465,2099,5,0,1000,input in rejected_payments column is an outlier
+2038,88780228.0,B,3731.0,2695.0,2021-08-04 00:00:00,D,5097,2957,6,0,1000,input in rejected_payments column is an outlier
+2039,88780231.0,B,5244.0,6020.0,2021-08-04 00:00:00,D,-234,-653,3,0,1000,input in rejected_payments column is an outlier
+2040,88780234.0,B,5845.0,1669.0,2021-08-04 00:00:00,D,3283,2425,4,0,1000,input in rejected_payments column is an outlier
+2041,88780237.0,B,1599.0,2742.0,2021-08-04 00:00:00,D,2048,1716,8,0,1000,input in rejected_payments column is an outlier
+2042,88780240.0,B,252.0,1017.0,2021-08-04 00:00:00,D,4400,4872,10,0,1000,input in rejected_payments column is an outlier
+2043,88780243.0,B,3041.0,3663.0,2021-08-04 00:00:00,D,7468,5602,6,0,1000,input in rejected_payments column is an outlier
+2044,88780246.0,B,3599.0,2561.0,2021-08-04 00:00:00,D,5767,4118,8,0,1000,input in rejected_payments column is an outlier
+2045,88780249.0,B,2603.0,348.0,2021-08-04 00:00:00,D,7637,9134,6,0,1000,input in rejected_payments column is an outlier
+2046,44774672.0,B,4793.0,2127.0,2021-08-04 00:00:00,D,3722,4746,9,4,3000,input in rejected_payments column is an outlier
+2047,44774675.0,B,3151.0,3771.0,2021-08-04 00:00:00,D,4027,6447,10,4,3000,input in rejected_payments column is an outlier
+2048,44774678.0,B,2189.0,5316.0,2021-08-04 00:00:00,D,-2752,-4350,10,4,3000,input in rejected_payments column is an outlier
+2049,44774681.0,B,776.0,4912.0,2021-08-04 00:00:00,D,-8535,1638,10,4,3000,input in rejected_payments column is an outlier
+2050,44774684.0,B,978.0,6736.0,2021-08-04 00:00:00,D,2000,-8252,4,4,3000,input in rejected_payments column is an outlier
+2051,44774687.0,B,1603.0,6110.0,2021-08-04 00:00:00,D,1456,1514,4,4,3000,input in rejected_payments column is an outlier
+2052,44774690.0,B,2821.0,6332.0,2021-08-04 00:00:00,D,-5547,-2274,3,4,3000,input in rejected_payments column is an outlier
+2053,44774696.0,B,5583.0,2748.0,2021-08-04 00:00:00,D,9182,11954,7,4,3000,input in rejected_payments column is an outlier
+2054,44774699.0,B,5675.0,5418.0,2021-08-04 00:00:00,D,-5099,703,8,4,3000,input in rejected_payments column is an outlier
+2055,44774702.0,B,1176.0,5878.0,2021-08-04 00:00:00,D,5696,1275,7,4,3000,input in rejected_payments column is an outlier
+2056,65127973.0,A,887.0,1998.0,2021-09-04 00:00:00,D,2980,3450,4,3,5000,input in rejected_payments column is an outlier
+2057,65128009.0,A,5797.0,542.0,2021-09-04 00:00:00,D,5763,14059,7,3,5000,input in rejected_payments column is an outlier
+2058,65128021.0,A,4859.0,4100.0,2021-09-04 00:00:00,D,4377,-1560,9,3,5000,input in rejected_payments column is an outlier
+2059,65128033.0,A,3356.0,5128.0,2021-09-04 00:00:00,D,1216,-2229,8,3,5000,input in rejected_payments column is an outlier
+2060,65128249.0,A,5358.0,5447.0,2021-09-04 00:00:00,D,4800,6489,5,3,5000,input in rejected_payments column is an outlier
+2061,65128273.0,A,4523.0,2533.0,2021-09-04 00:00:00,D,4788,8560,7,3,5000,input in rejected_payments column is an outlier
+2062,65128297.0,A,107.0,1407.0,2021-09-04 00:00:00,D,3452,3169,3,3,5000,input in rejected_payments column is an outlier
+2063,65128309.0,A,2831.0,1661.0,2021-09-04 00:00:00,D,1963,-1587,3,3,5000,input in rejected_payments column is an outlier
+2064,65128321.0,A,202.0,6090.0,2021-09-04 00:00:00,D,1894,-6185,10,3,5000,input in rejected_payments column is an outlier
+2065,65128333.0,A,3587.0,6989.0,2021-09-04 00:00:00,D,-1056,2516,10,3,5000,input in rejected_payments column is an outlier
+2066,65128357.0,A,1911.0,6575.0,2021-09-04 00:00:00,D,2020,-2613,7,3,5000,input in rejected_payments column is an outlier
+2067,65128381.0,A,2981.0,3033.0,2021-09-04 00:00:00,D,-2221,-6118,9,3,5000,input in rejected_payments column is an outlier
+2068,32213157.0,A,2791.0,6608.0,2021-09-04 00:00:00,D,-4404,-810,8,3,1000,input in rejected_payments column is an outlier
+2069,32213185.0,A,4079.0,4599.0,2021-09-04 00:00:00,D,-4154,-4732,10,3,1000,input in rejected_payments column is an outlier
+2070,32213192.0,A,107.0,448.0,2021-09-04 00:00:00,D,1218,-3811,7,3,1000,input in rejected_payments column is an outlier
+2071,32213199.0,A,5600.0,5975.0,2021-09-04 00:00:00,D,3334,2199,6,3,1000,input in rejected_payments column is an outlier
+2072,32213206.0,A,3650.0,4721.0,2021-09-04 00:00:00,D,902,-2828,10,3,1000,input in rejected_payments column is an outlier
+2073,32213220.0,A,4498.0,1271.0,2021-09-04 00:00:00,D,7515,9329,5,3,1000,input in rejected_payments column is an outlier
+2074,32213227.0,A,5524.0,3812.0,2021-09-04 00:00:00,D,507,5366,5,3,1000,input in rejected_payments column is an outlier
+2075,88779085.0,B,2849.0,6976.0,2021-09-04 00:00:00,D,657,-4175,4,4,1000,input in rejected_payments column is an outlier
+2076,88779088.0,B,5997.0,3329.0,2021-09-04 00:00:00,D,853,2088,8,4,1000,input in rejected_payments column is an outlier
+2077,88779097.0,B,4317.0,6834.0,2021-09-04 00:00:00,D,3566,212,9,4,1000,input in rejected_payments column is an outlier
+2078,88779103.0,B,4954.0,994.0,2021-09-04 00:00:00,D,438,-2753,8,4,1000,input in rejected_payments column is an outlier
+2079,88779106.0,B,4543.0,2551.0,2021-09-04 00:00:00,D,6242,5917,5,4,1000,input in rejected_payments column is an outlier
+2080,88779109.0,B,4383.0,6621.0,2021-09-04 00:00:00,D,3623,4985,6,4,1000,input in rejected_payments column is an outlier
+2081,88779112.0,B,176.0,5093.0,2021-09-04 00:00:00,D,-9156,-13512,3,4,1000,input in rejected_payments column is an outlier
+2082,88780216.0,B,4567.0,3502.0,2021-09-04 00:00:00,D,3222,6142,4,0,1000,input in rejected_payments column is an outlier
+2083,88780219.0,B,4222.0,3764.0,2021-09-04 00:00:00,D,437,-1363,3,0,1000,input in rejected_payments column is an outlier
+2084,88780222.0,B,5363.0,6273.0,2021-09-04 00:00:00,D,2606,1994,10,0,1000,input in rejected_payments column is an outlier
+2085,88780225.0,B,64.0,1894.0,2021-09-04 00:00:00,D,-4440,269,3,0,1000,input in rejected_payments column is an outlier
+2086,88780228.0,B,2076.0,596.0,2021-09-04 00:00:00,D,1027,4437,8,0,1000,input in rejected_payments column is an outlier
+2087,88780231.0,B,1433.0,2058.0,2021-09-04 00:00:00,D,-148,-1278,9,0,1000,input in rejected_payments column is an outlier
+2088,88780237.0,B,5335.0,2297.0,2021-09-04 00:00:00,D,-359,4754,5,0,1000,input in rejected_payments column is an outlier
+2089,88780240.0,B,458.0,2176.0,2021-09-04 00:00:00,D,2522,3154,5,0,1000,input in rejected_payments column is an outlier
+2090,88780243.0,B,4699.0,1474.0,2021-09-04 00:00:00,D,8809,8827,8,0,1000,input in rejected_payments column is an outlier
+2091,88780246.0,B,2911.0,249.0,2021-09-04 00:00:00,D,4623,6780,10,0,1000,input in rejected_payments column is an outlier
+2092,88780249.0,B,121.0,5376.0,2021-09-04 00:00:00,D,3037,3879,3,0,1000,input in rejected_payments column is an outlier
+2093,44774669.0,B,1508.0,5515.0,2021-09-04 00:00:00,D,603,2033,7,4,3000,input in rejected_payments column is an outlier
+2094,44774672.0,B,1227.0,4189.0,2021-09-04 00:00:00,D,-64,1784,7,4,3000,input in rejected_payments column is an outlier
+2095,44774675.0,B,92.0,2851.0,2021-09-04 00:00:00,D,3318,3688,3,4,3000,input in rejected_payments column is an outlier
+2096,44774681.0,B,420.0,6222.0,2021-09-04 00:00:00,D,-1364,-4164,4,4,3000,input in rejected_payments column is an outlier
+2097,44774684.0,B,5528.0,5022.0,2021-09-04 00:00:00,D,-7851,-7746,3,4,3000,input in rejected_payments column is an outlier
+2098,44774690.0,B,502.0,3831.0,2021-09-04 00:00:00,D,-3243,-5603,8,4,3000,input in rejected_payments column is an outlier
+2099,44774696.0,B,197.0,1664.0,2021-09-04 00:00:00,D,3464,10487,4,4,3000,input in rejected_payments column is an outlier
+2100,44774699.0,B,5080.0,3380.0,2021-09-04 00:00:00,D,6050,2403,10,4,3000,input in rejected_payments column is an outlier
+2101,44774702.0,B,5279.0,955.0,2021-09-04 00:00:00,D,5602,5599,7,4,3000,input in rejected_payments column is an outlier
+2102,65127973.0,A,1847.0,3391.0,2021-10-05 00:00:00,D,3027,1906,5,3,5000,input in rejected_payments column is an outlier
+2103,65127985.0,A,402.0,5419.0,2021-10-05 00:00:00,D,304,-1531,4,3,5000,input in rejected_payments column is an outlier
+2104,65128009.0,A,2448.0,4599.0,2021-10-05 00:00:00,D,10794,11908,6,3,5000,input in rejected_payments column is an outlier
+2105,65128021.0,A,1143.0,5314.0,2021-10-05 00:00:00,D,2457,-5731,3,3,5000,input in rejected_payments column is an outlier
+2106,65128249.0,A,1914.0,3228.0,2021-10-05 00:00:00,D,8594,5175,9,3,5000,input in rejected_payments column is an outlier
+2107,65128273.0,A,3621.0,867.0,2021-10-05 00:00:00,D,7347,11314,6,3,5000,input in rejected_payments column is an outlier
+2108,65128285.0,A,1411.0,6656.0,2021-10-05 00:00:00,D,519,-1119,4,3,5000,input in rejected_payments column is an outlier
+2109,65128297.0,A,1451.0,943.0,2021-10-05 00:00:00,D,1797,3677,6,3,5000,input in rejected_payments column is an outlier
+2110,65128309.0,A,5950.0,1548.0,2021-10-05 00:00:00,D,1323,2815,7,3,5000,input in rejected_payments column is an outlier
+2111,65128321.0,A,2218.0,982.0,2021-10-05 00:00:00,D,-1352,-4949,7,3,5000,input in rejected_payments column is an outlier
+2112,65128333.0,A,524.0,3515.0,2021-10-05 00:00:00,D,157,-475,6,3,5000,input in rejected_payments column is an outlier
+2113,65128345.0,A,3852.0,4061.0,2021-10-05 00:00:00,D,-202,-291,8,3,5000,input in rejected_payments column is an outlier
+2114,65128357.0,A,35.0,5592.0,2021-10-05 00:00:00,D,-5952,-8170,10,3,5000,input in rejected_payments column is an outlier
+2115,65128369.0,A,2254.0,6708.0,2021-10-05 00:00:00,D,-5178,-872,7,3,5000,input in rejected_payments column is an outlier
+2116,32213157.0,A,942.0,4467.0,2021-10-05 00:00:00,D,-1382,-4335,10,3,1000,input in rejected_payments column is an outlier
+2117,32213178.0,A,3703.0,1432.0,2021-10-05 00:00:00,D,5551,2062,7,3,1000,input in rejected_payments column is an outlier
+2118,32213185.0,A,942.0,6363.0,2021-10-05 00:00:00,D,-5313,-10153,3,3,1000,input in rejected_payments column is an outlier
+2119,32213192.0,A,3186.0,210.0,2021-10-05 00:00:00,D,2171,-835,8,3,1000,input in rejected_payments column is an outlier
+2120,32213199.0,A,3161.0,6312.0,2021-10-05 00:00:00,D,-1222,-952,7,3,1000,input in rejected_payments column is an outlier
+2121,32213213.0,A,1780.0,1736.0,2021-10-05 00:00:00,D,8086,4979,8,3,1000,input in rejected_payments column is an outlier
+2122,32213227.0,A,476.0,3921.0,2021-10-05 00:00:00,D,3942,1921,4,3,1000,input in rejected_payments column is an outlier
+2123,88779088.0,B,710.0,707.0,2021-10-05 00:00:00,D,-3403,2091,5,4,1000,input in rejected_payments column is an outlier
+2124,88779091.0,B,1755.0,1473.0,2021-10-05 00:00:00,D,2451,-6256,9,4,1000,input in rejected_payments column is an outlier
+2125,88779094.0,B,1231.0,2455.0,2021-10-05 00:00:00,D,3543,-2889,8,4,1000,input in rejected_payments column is an outlier
+2126,88779097.0,B,71.0,619.0,2021-10-05 00:00:00,D,-1720,-336,6,4,1000,input in rejected_payments column is an outlier
+2127,88779100.0,B,3716.0,6969.0,2021-10-05 00:00:00,D,-93,-1372,6,4,1000,input in rejected_payments column is an outlier
+2128,88779103.0,B,4471.0,6237.0,2021-10-05 00:00:00,D,2731,-4519,9,4,1000,input in rejected_payments column is an outlier
+2129,88779106.0,B,4010.0,414.0,2021-10-05 00:00:00,D,7253,9513,9,4,1000,input in rejected_payments column is an outlier
+2130,88779109.0,B,1283.0,3392.0,2021-10-05 00:00:00,D,-5932,2876,7,4,1000,input in rejected_payments column is an outlier
+2131,88779112.0,B,1248.0,3194.0,2021-10-05 00:00:00,D,205,-15458,9,4,1000,input in rejected_payments column is an outlier
+2132,88779115.0,B,5110.0,1919.0,2021-10-05 00:00:00,D,3590,4425,8,4,1000,input in rejected_payments column is an outlier
+2133,88780216.0,B,4741.0,6408.0,2021-10-05 00:00:00,D,15,4475,10,0,1000,input in rejected_payments column is an outlier
+2134,88780219.0,B,1385.0,54.0,2021-10-05 00:00:00,D,7921,-32,10,0,1000,input in rejected_payments column is an outlier
+2135,88780222.0,B,1354.0,418.0,2021-10-05 00:00:00,D,2924,2930,3,0,1000,input in rejected_payments column is an outlier
+2136,88780225.0,B,1962.0,6814.0,2021-10-05 00:00:00,D,-301,-4583,6,0,1000,input in rejected_payments column is an outlier
+2137,88780228.0,B,261.0,1525.0,2021-10-05 00:00:00,D,5032,3173,3,0,1000,input in rejected_payments column is an outlier
+2138,88780234.0,B,2040.0,1463.0,2021-10-05 00:00:00,D,288,26,10,0,1000,input in rejected_payments column is an outlier
+2139,88780237.0,B,5386.0,6489.0,2021-10-05 00:00:00,D,3226,3651,4,0,1000,input in rejected_payments column is an outlier
+2140,88780240.0,B,4067.0,5335.0,2021-10-05 00:00:00,D,-2659,1886,3,0,1000,input in rejected_payments column is an outlier
+2141,88780243.0,B,3140.0,6631.0,2021-10-05 00:00:00,D,5006,5336,10,0,1000,input in rejected_payments column is an outlier
+2142,88780246.0,B,768.0,3770.0,2021-10-05 00:00:00,D,3064,3778,8,0,1000,input in rejected_payments column is an outlier
+2143,44774669.0,B,1575.0,5938.0,2021-10-05 00:00:00,D,-1173,-2330,8,4,3000,input in rejected_payments column is an outlier
+2144,44774672.0,B,5455.0,6529.0,2021-10-05 00:00:00,D,-1335,710,7,4,3000,input in rejected_payments column is an outlier
+2145,44774675.0,B,431.0,6933.0,2021-10-05 00:00:00,D,407,-2814,3,4,3000,input in rejected_payments column is an outlier
+2146,44774678.0,B,347.0,5387.0,2021-10-05 00:00:00,D,-648,-9859,10,4,3000,input in rejected_payments column is an outlier
+2147,44774681.0,B,4393.0,6972.0,2021-10-05 00:00:00,D,-4386,-6743,9,4,3000,input in rejected_payments column is an outlier
+2148,44774684.0,B,1907.0,4421.0,2021-10-05 00:00:00,D,-491,-10260,8,4,3000,input in rejected_payments column is an outlier
+2149,44774687.0,B,2619.0,1096.0,2021-10-05 00:00:00,D,-1813,741,6,4,3000,input in rejected_payments column is an outlier
+2150,44774690.0,B,1200.0,158.0,2021-10-05 00:00:00,D,-5327,-4561,3,4,3000,input in rejected_payments column is an outlier
+2151,44774693.0,B,2519.0,2854.0,2021-10-05 00:00:00,D,11505,3955,8,4,3000,input in rejected_payments column is an outlier
+2152,44774696.0,B,1444.0,2811.0,2021-10-05 00:00:00,D,8071,9120,4,4,3000,input in rejected_payments column is an outlier
+2153,44774699.0,B,2088.0,6470.0,2021-10-05 00:00:00,D,6654,-1979,9,4,3000,input in rejected_payments column is an outlier
+2154,44774702.0,B,4325.0,440.0,2021-10-05 00:00:00,D,12045,9484,3,4,3000,input in rejected_payments column is an outlier
+2155,65127973.0,A,2618.0,1813.0,2021-11-05 00:00:00,D,5794,2711,5,3,5000,input in rejected_payments column is an outlier
+2156,65127985.0,A,3545.0,3629.0,2021-11-05 00:00:00,D,-1358,-1615,7,3,5000,input in rejected_payments column is an outlier
+2157,65127997.0,A,315.0,342.0,2021-11-05 00:00:00,D,10639,-4110,4,3,5000,input in rejected_payments column is an outlier
+2158,65128009.0,A,660.0,5528.0,2021-11-05 00:00:00,D,6822,7040,9,3,5000,input in rejected_payments column is an outlier
+2159,65128021.0,A,4763.0,1562.0,2021-11-05 00:00:00,D,5914,-2530,9,3,5000,input in rejected_payments column is an outlier
+2160,65128033.0,A,5197.0,2842.0,2021-11-05 00:00:00,D,-4280,1459,10,3,5000,input in rejected_payments column is an outlier
+2161,65128249.0,A,5190.0,1172.0,2021-11-05 00:00:00,D,8496,9193,8,3,5000,input in rejected_payments column is an outlier
+2162,65128261.0,A,3462.0,867.0,2021-11-05 00:00:00,D,6892,5654,5,3,5000,input in rejected_payments column is an outlier
+2163,65128273.0,A,228.0,5512.0,2021-11-05 00:00:00,D,5947,6030,10,3,5000,input in rejected_payments column is an outlier
+2164,65128321.0,A,3108.0,2444.0,2021-11-05 00:00:00,D,-2400,-4285,10,3,5000,input in rejected_payments column is an outlier
+2165,65128333.0,A,2202.0,3202.0,2021-11-05 00:00:00,D,2342,-1475,10,3,5000,input in rejected_payments column is an outlier
+2166,65128345.0,A,4998.0,2641.0,2021-11-05 00:00:00,D,-2608,2066,3,3,5000,input in rejected_payments column is an outlier
+2167,65128357.0,A,5024.0,6050.0,2021-11-05 00:00:00,D,4930,-9196,10,3,5000,input in rejected_payments column is an outlier
+2168,65128381.0,A,1558.0,6968.0,2021-11-05 00:00:00,D,-5812,-13916,8,3,5000,input in rejected_payments column is an outlier
+2169,32213157.0,A,3778.0,6861.0,2021-11-05 00:00:00,D,-6913,-7418,10,3,1000,input in rejected_payments column is an outlier
+2170,32213164.0,A,1366.0,1237.0,2021-11-05 00:00:00,D,-3275,-8572,4,3,1000,input in rejected_payments column is an outlier
+2171,32213178.0,A,5768.0,1947.0,2021-11-05 00:00:00,D,3619,5883,10,3,1000,input in rejected_payments column is an outlier
+2172,32213199.0,A,3077.0,1084.0,2021-11-05 00:00:00,D,2914,1041,10,3,1000,input in rejected_payments column is an outlier
+2173,32213206.0,A,3803.0,456.0,2021-11-05 00:00:00,D,6614,1834,7,3,1000,input in rejected_payments column is an outlier
+2174,32213213.0,A,5134.0,1299.0,2021-11-05 00:00:00,D,6879,8814,5,3,1000,input in rejected_payments column is an outlier
+2175,32213220.0,A,4210.0,3150.0,2021-11-05 00:00:00,D,4281,7413,6,3,1000,input in rejected_payments column is an outlier
+2176,32213227.0,A,292.0,3300.0,2021-11-05 00:00:00,D,4872,-1087,7,3,1000,input in rejected_payments column is an outlier
+2177,88779085.0,B,293.0,5067.0,2021-11-05 00:00:00,D,2760,-15475,5,4,1000,input in rejected_payments column is an outlier
+2178,88779088.0,B,21.0,3391.0,2021-11-05 00:00:00,D,-2760,-1279,10,4,1000,input in rejected_payments column is an outlier
+2179,88779091.0,B,3821.0,2488.0,2021-11-05 00:00:00,D,-2529,-4923,5,4,1000,input in rejected_payments column is an outlier
+2180,88779094.0,B,1548.0,3386.0,2021-11-05 00:00:00,D,1251,-4727,10,4,1000,input in rejected_payments column is an outlier
+2181,88779100.0,B,4017.0,6053.0,2021-11-05 00:00:00,D,-4728,-3408,9,4,1000,input in rejected_payments column is an outlier
+2182,88779106.0,B,3447.0,5845.0,2021-11-05 00:00:00,D,5347,7115,3,4,1000,input in rejected_payments column is an outlier
+2183,88779112.0,B,1439.0,2383.0,2021-11-05 00:00:00,D,-477,-16402,7,4,1000,input in rejected_payments column is an outlier
+2184,88779115.0,B,5682.0,2946.0,2021-11-05 00:00:00,D,1591,7161,7,4,1000,input in rejected_payments column is an outlier
+2185,88779118.0,B,846.0,192.0,2021-11-05 00:00:00,D,-535,2859,9,4,1000,input in rejected_payments column is an outlier
+2186,88780216.0,B,5289.0,5333.0,2021-11-05 00:00:00,D,2286,4431,9,0,1000,input in rejected_payments column is an outlier
+2187,88780219.0,B,4009.0,6062.0,2021-11-05 00:00:00,D,2916,-2085,10,0,1000,input in rejected_payments column is an outlier
+2188,88780222.0,B,1487.0,1030.0,2021-11-05 00:00:00,D,3118,3387,10,0,1000,input in rejected_payments column is an outlier
+2189,88780225.0,B,5368.0,1061.0,2021-11-05 00:00:00,D,4374,-276,6,0,1000,input in rejected_payments column is an outlier
+2190,88780231.0,B,3045.0,6657.0,2021-11-05 00:00:00,D,-2540,-2903,5,0,1000,input in rejected_payments column is an outlier
+2191,88780234.0,B,1994.0,2976.0,2021-11-05 00:00:00,D,3446,-956,10,0,1000,input in rejected_payments column is an outlier
+2192,88780237.0,B,1500.0,6846.0,2021-11-05 00:00:00,D,2861,-1695,10,0,1000,input in rejected_payments column is an outlier
+2193,88780240.0,B,1925.0,6563.0,2021-11-05 00:00:00,D,8289,-2752,10,0,1000,input in rejected_payments column is an outlier
+2194,88780243.0,B,1626.0,4427.0,2021-11-05 00:00:00,D,4381,2535,9,0,1000,input in rejected_payments column is an outlier
+2195,88780249.0,B,5884.0,6585.0,2021-11-05 00:00:00,D,1151,2391,4,0,1000,input in rejected_payments column is an outlier
+2196,44774669.0,B,584.0,2557.0,2021-11-05 00:00:00,D,3493,-4303,8,4,3000,input in rejected_payments column is an outlier
+2197,44774672.0,B,878.0,4634.0,2021-11-05 00:00:00,D,-137,-3046,6,4,3000,input in rejected_payments column is an outlier
+2198,44774678.0,B,2616.0,4522.0,2021-11-05 00:00:00,D,-3427,-11765,9,4,3000,input in rejected_payments column is an outlier
+2199,44774684.0,B,1565.0,1152.0,2021-11-05 00:00:00,D,3055,-9847,7,4,3000,input in rejected_payments column is an outlier
+2200,44774687.0,B,2443.0,1190.0,2021-11-05 00:00:00,D,1570,1994,9,4,3000,input in rejected_payments column is an outlier
+2201,44774690.0,B,4020.0,5582.0,2021-11-05 00:00:00,D,5388,-6123,4,4,3000,input in rejected_payments column is an outlier
+2202,44774693.0,B,7.0,491.0,2021-11-05 00:00:00,D,5112,3471,7,4,3000,input in rejected_payments column is an outlier
+2203,44774696.0,B,5278.0,4748.0,2021-11-05 00:00:00,D,5901,9650,6,4,3000,input in rejected_payments column is an outlier
+2205,78794645.0,B,4523.0,484.0,2021-09-04 00:00:00,D,719,-423,0,54545,1000,input in monthly_payment_scheduled column is an outlier
+2206,54441245.0,B,2500.0,2814.0,2021-10-05 00:00:00,D,2030,-2171,0,55550,1000,input in monthly_payment_scheduled column is an outlier
+2207,44774411.0,B,2500.0,3113.0,2021-11-05 00:00:00,D,576,-2784,0,25000,3000,input in monthly_payment_scheduled column is an outlier
+2209,10011145.0,,2000.0,4776.0,2021-06-03 00:00:00,D,-1651,1224,0,3,1000,Input in column account_type is null
+2210,10011146.0,,2000.0,4776.0,2021-06-03 00:00:00,D,-1446,1224,0,3,1000,Input in column account_type is null
+2211,20011222.0,,2000.0,4776.0,2021-06-03 00:00:00,D,-2174,1224,0,3,1000,Input in column account_type is null
+2212,20441252.0,,2000.0,4776.0,2021-06-03 00:00:00,D,-2400,1224,0,3,1000,Input in column account_type is null
+2213,10011145.0,,2500.0,3787.0,2021-07-04 00:00:00,D,-1633,-63,0,3,1000,Input in column account_type is null
+2214,10011146.0,,2500.0,3787.0,2021-07-04 00:00:00,D,-2528,-63,0,3,1000,Input in column account_type is null
+2215,20011222.0,,2500.0,3787.0,2021-07-04 00:00:00,D,-1528,-63,0,3,1000,Input in column account_type is null
+2216,20441252.0,,2500.0,3787.0,2021-07-04 00:00:00,D,-2177,-63,0,3,1000,Input in column account_type is null
+2217,10011145.0,,2500.0,4872.0,2021-08-04 00:00:00,D,-25,-2435,0,3,1000,Input in column account_type is null
+2218,10011146.0,,2500.0,4872.0,2021-08-04 00:00:00,D,-1293,-2435,0,3,1000,Input in column account_type is null
+2219,20011222.0,,2500.0,4872.0,2021-08-04 00:00:00,D,-2541,-2435,0,3,1000,Input in column account_type is null
+2220,20441252.0,,2500.0,4872.0,2021-08-04 00:00:00,D,862,-2435,0,3,1000,Input in column account_type is null
+2221,10011145.0,,3500.0,2922.0,2021-09-04 00:00:00,D,-1203,-1857,0,3,1000,Input in column account_type is null
+2222,10011146.0,,3500.0,2922.0,2021-09-04 00:00:00,D,-924,-1857,0,3,1000,Input in column account_type is null
+2223,20011222.0,,3500.0,2922.0,2021-09-04 00:00:00,D,15,-1857,0,3,1000,Input in column account_type is null
+2224,20441252.0,,3500.0,2922.0,2021-09-04 00:00:00,D,266,-1857,0,3,1000,Input in column account_type is null
+2225,10011145.0,,2500.0,2814.0,2021-10-05 00:00:00,D,-69,-2171,0,3,1000,Input in column account_type is null
+2226,10011146.0,,2500.0,2814.0,2021-10-05 00:00:00,D,-746,-2171,0,3,1000,Input in column account_type is null
+2227,20011222.0,,2500.0,2814.0,2021-10-05 00:00:00,D,37,-2171,0,3,1000,Input in column account_type is null
+2228,20441252.0,,2500.0,2814.0,2021-10-05 00:00:00,D,-2186,-2171,0,3,1000,Input in column account_type is null
+2229,10011145.0,,2500.0,3113.0,2021-11-05 00:00:00,D,-1583,-2784,0,3,1000,Input in column account_type is null
+2230,10011146.0,,2500.0,3113.0,2021-11-05 00:00:00,D,235,-2784,0,3,1000,Input in column account_type is null
+2231,20011222.0,,2500.0,3113.0,2021-11-05 00:00:00,D,-2650,-2784,0,3,1000,Input in column account_type is null
+2232,20441252.0,,2500.0,3113.0,2021-11-05 00:00:00,D,6999,-2784,0,3,1000,Input in column account_type is null
+2233,47126988.0,A,,,2021-06-03 00:00:00,D,3951,3076,0,7,1000,Input in column credit_turnover is null
+2234,47126988.0,A,,,2021-07-04 00:00:00,D,5234,6257,0,7,1000,Input in column credit_turnover is null
+2235,47126988.0,A,,,2021-08-04 00:00:00,D,5317,4423,0,7,1000,Input in column credit_turnover is null
+2236,47126988.0,A,,,2021-09-04 00:00:00,D,4829,5239,0,7,1000,Input in column credit_turnover is null
+2237,47126988.0,A,,,2021-10-05 00:00:00,D,6529,5455,0,7,1000,Input in column credit_turnover is null
+2238,47126988.0,A,,,2021-11-05 00:00:00,D,7197,4996,0,7,1000,Input in column credit_turnover is null
+2239,47126988.0,A,,,2021-06-03 00:00:00,D,3951,3076,0,7,1000,Input in column debit_turnover is null
+2240,47126988.0,A,,,2021-07-04 00:00:00,D,5234,6257,0,7,1000,Input in column debit_turnover is null
+2241,47126988.0,A,,,2021-08-04 00:00:00,D,5317,4423,0,7,1000,Input in column debit_turnover is null
+2242,47126988.0,A,,,2021-09-04 00:00:00,D,4829,5239,0,7,1000,Input in column debit_turnover is null
+2243,47126988.0,A,,,2021-10-05 00:00:00,D,6529,5455,0,7,1000,Input in column debit_turnover is null
+2244,47126988.0,A,,,2021-11-05 00:00:00,D,7197,4996,0,7,1000,Input in column debit_turnover is null
+2245,47126976.0,A,2000.0,4776.0,2021-06-03 00:00:00,D,,,0,7,1000,Input in column min_balance is null
+2246,47126976.0,A,2500.0,3787.0,2021-07-04 00:00:00,D,,,0,7,1000,Input in column min_balance is null
+2247,47126976.0,A,2500.0,4872.0,2021-08-04 00:00:00,D,,,0,7,1000,Input in column min_balance is null
+2248,47126976.0,A,3500.0,2922.0,2021-09-04 00:00:00,D,,,0,7,1000,Input in column min_balance is null
+2249,47126976.0,A,2500.0,2814.0,2021-10-05 00:00:00,D,,,0,7,1000,Input in column min_balance is null
+2250,47126976.0,A,2500.0,3113.0,2021-11-05 00:00:00,D,,,0,7,1000,Input in column min_balance is null
+2251,47126976.0,A,2000.0,4776.0,2021-06-03 00:00:00,D,,,0,7,1000,Input in column balance is null
+2252,47126976.0,A,2500.0,3787.0,2021-07-04 00:00:00,D,,,0,7,1000,Input in column balance is null
+2253,47126976.0,A,2500.0,4872.0,2021-08-04 00:00:00,D,,,0,7,1000,Input in column balance is null
+2254,47126976.0,A,3500.0,2922.0,2021-09-04 00:00:00,D,,,0,7,1000,Input in column balance is null
+2255,47126976.0,A,2500.0,2814.0,2021-10-05 00:00:00,D,,,0,7,1000,Input in column balance is null
+2256,47126976.0,A,2500.0,3113.0,2021-11-05 00:00:00,D,,,0,7,1000,Input in column balance is null
+2257,10011145.0,,2000.0,4776.0,2021-06-03 00:00:00,D,-1651,1224,0,3,1000,input in account_type column exceeds length requirement
+2258,10011146.0,,2000.0,4776.0,2021-06-03 00:00:00,D,-1446,1224,0,3,1000,input in account_type column exceeds length requirement
+2259,20011222.0,,2000.0,4776.0,2021-06-03 00:00:00,D,-2174,1224,0,3,1000,input in account_type column exceeds length requirement
+2260,20441252.0,,2000.0,4776.0,2021-06-03 00:00:00,D,-2400,1224,0,3,1000,input in account_type column exceeds length requirement
+2261,10011145.0,,2500.0,3787.0,2021-07-04 00:00:00,D,-1633,-63,0,3,1000,input in account_type column exceeds length requirement
+2262,10011146.0,,2500.0,3787.0,2021-07-04 00:00:00,D,-2528,-63,0,3,1000,input in account_type column exceeds length requirement
+2263,20011222.0,,2500.0,3787.0,2021-07-04 00:00:00,D,-1528,-63,0,3,1000,input in account_type column exceeds length requirement
+2264,20441252.0,,2500.0,3787.0,2021-07-04 00:00:00,D,-2177,-63,0,3,1000,input in account_type column exceeds length requirement
+2265,10011145.0,,2500.0,4872.0,2021-08-04 00:00:00,D,-25,-2435,0,3,1000,input in account_type column exceeds length requirement
+2266,10011146.0,,2500.0,4872.0,2021-08-04 00:00:00,D,-1293,-2435,0,3,1000,input in account_type column exceeds length requirement
+2267,20011222.0,,2500.0,4872.0,2021-08-04 00:00:00,D,-2541,-2435,0,3,1000,input in account_type column exceeds length requirement
+2268,20441252.0,,2500.0,4872.0,2021-08-04 00:00:00,D,862,-2435,0,3,1000,input in account_type column exceeds length requirement
+2269,10011145.0,,3500.0,2922.0,2021-09-04 00:00:00,D,-1203,-1857,0,3,1000,input in account_type column exceeds length requirement
+2270,10011146.0,,3500.0,2922.0,2021-09-04 00:00:00,D,-924,-1857,0,3,1000,input in account_type column exceeds length requirement
+2271,20011222.0,,3500.0,2922.0,2021-09-04 00:00:00,D,15,-1857,0,3,1000,input in account_type column exceeds length requirement
+2272,20441252.0,,3500.0,2922.0,2021-09-04 00:00:00,D,266,-1857,0,3,1000,input in account_type column exceeds length requirement
+2273,10011145.0,,2500.0,2814.0,2021-10-05 00:00:00,D,-69,-2171,0,3,1000,input in account_type column exceeds length requirement
+2274,10011146.0,,2500.0,2814.0,2021-10-05 00:00:00,D,-746,-2171,0,3,1000,input in account_type column exceeds length requirement
+2275,20011222.0,,2500.0,2814.0,2021-10-05 00:00:00,D,37,-2171,0,3,1000,input in account_type column exceeds length requirement
+2276,20441252.0,,2500.0,2814.0,2021-10-05 00:00:00,D,-2186,-2171,0,3,1000,input in account_type column exceeds length requirement
+2277,10011145.0,,2500.0,3113.0,2021-11-05 00:00:00,D,-1583,-2784,0,3,1000,input in account_type column exceeds length requirement
+2278,10011146.0,,2500.0,3113.0,2021-11-05 00:00:00,D,235,-2784,0,3,1000,input in account_type column exceeds length requirement
+2279,20011222.0,,2500.0,3113.0,2021-11-05 00:00:00,D,-2650,-2784,0,3,1000,input in account_type column exceeds length requirement
+2280,20441252.0,,2500.0,3113.0,2021-11-05 00:00:00,D,6999,-2784,0,3,1000,input in account_type column exceeds length requirement
+2281,88102245.0,B,2000.0,4776.0,44350,D,-2413,1224,0,4,1000,input in month_data_date column is not a valid date/exceeds length requirement
+2282,88102245.0,B,2500.0,3787.0,44381,D,-1531,-63,0,4,1000,input in month_data_date column is not a valid date/exceeds length requirement
+2283,88102245.0,B,2500.0,4872.0,44412,D,4075,-2435,0,4,1000,input in month_data_date column is not a valid date/exceeds length requirement
+2284,88102245.0,B,3500.0,2922.0,44443,D,7447,-1857,0,4,1000,input in month_data_date column is not a valid date/exceeds length requirement
+2285,88102245.0,B,2500.0,2814.0,44474,D,8380,-2171,0,4,1000,input in month_data_date column is not a valid date/exceeds length requirement
+2286,88102245.0,B,2500.0,3113.0,44505,D,-587,-2784,0,4,1000,input in month_data_date column is not a valid date/exceeds length requirement
+2287,32447810.0,A,2000.0,4776.0,2027-06-03 00:00:00,D,-2447,1224,0,3,1000,input in month_data_date column is an outlier date
+2288,32447810.0,A,2500.0,3787.0,2027-07-04 00:00:00,D,-632,-63,0,3,1000,input in month_data_date column is an outlier date
+2289,32447810.0,A,2500.0,4872.0,2027-08-04 00:00:00,D,5584,-2435,0,3,1000,input in month_data_date column is an outlier date
+2290,32447810.0,A,3500.0,2922.0,2027-09-04 00:00:00,D,-2297,-1857,0,3,1000,input in month_data_date column is an outlier date
+2291,32447810.0,A,2500.0,2814.0,2027-10-05 00:00:00,D,-2769,-2171,0,3,1000,input in month_data_date column is an outlier date
+2292,32447810.0,A,2500.0,3113.0,2027-11-05 00:00:00,D,-2301,-2784,0,3,1000,input in month_data_date column is an outlier date
+2293,47126988.0,A,,,2021-06-03 00:00:00,D,3951,3076,0,7,1000,input in credit_turnover column is not a number
+2294,47126988.0,A,,,2021-07-04 00:00:00,D,5234,6257,0,7,1000,input in credit_turnover column is not a number
+2295,47126988.0,A,,,2021-08-04 00:00:00,D,5317,4423,0,7,1000,input in credit_turnover column is not a number
+2296,47126988.0,A,,,2021-09-04 00:00:00,D,4829,5239,0,7,1000,input in credit_turnover column is not a number
+2297,47126988.0,A,,,2021-10-05 00:00:00,D,6529,5455,0,7,1000,input in credit_turnover column is not a number
+2298,47126988.0,A,,,2021-11-05 00:00:00,D,7197,4996,0,7,1000,input in credit_turnover column is not a number
+2299,47126988.0,A,,,2021-06-03 00:00:00,D,3951,3076,0,7,1000,input in debit_turnover column is not a number
+2300,47126988.0,A,,,2021-07-04 00:00:00,D,5234,6257,0,7,1000,input in debit_turnover column is not a number
+2301,47126988.0,A,,,2021-08-04 00:00:00,D,5317,4423,0,7,1000,input in debit_turnover column is not a number
+2302,47126988.0,A,,,2021-09-04 00:00:00,D,4829,5239,0,7,1000,input in debit_turnover column is not a number
+2303,47126988.0,A,,,2021-10-05 00:00:00,D,6529,5455,0,7,1000,input in debit_turnover column is not a number
+2304,47126988.0,A,,,2021-11-05 00:00:00,D,7197,4996,0,7,1000,input in debit_turnover column is not a number
+2305,47126976.0,A,2000.0,4776.0,2021-06-03 00:00:00,D,,,0,7,1000,input in min_balance column is not a number
+2306,32211554.0,A,4031.0,3027.0,2021-06-03 00:00:00,D,###############################################################################################################################################################################################################################################################,1913-09-12 00:00:00,0,3,5000,input in min_balance column does not meet length requirement
+2307,47126976.0,A,2500.0,3787.0,2021-07-04 00:00:00,D,,,0,7,1000,input in min_balance column is not a number
+2308,32211554.0,A,3592.0,1534.0,2021-07-04 00:00:00,D,1918-04-07 00:00:00,1919-05-02 00:00:00,0,3,5000,input in min_balance column is not a number
+2309,47126976.0,A,2500.0,4872.0,2021-08-04 00:00:00,D,,,0,7,1000,input in min_balance column is not a number
+2310,32211554.0,A,956.0,5305.0,2021-08-04 00:00:00,D,###############################################################################################################################################################################################################################################################,1907-06-05 00:00:00,0,3,5000,input in min_balance column does not meet length requirement
+2311,47126976.0,A,3500.0,2922.0,2021-09-04 00:00:00,D,,,0,7,1000,input in min_balance column is not a number
+2312,32211554.0,A,4110.0,6724.0,2021-09-04 00:00:00,D,###############################################################################################################################################################################################################################################################,1900-04-08 00:00:00,0,3,5000,input in min_balance column does not meet length requirement
+2313,47126976.0,A,2500.0,2814.0,2021-10-05 00:00:00,D,,,0,7,1000,input in min_balance column is not a number
+2314,32211554.0,A,4402.0,4607.0,2021-10-05 00:00:00,D,###############################################################################################################################################################################################################################################################,###############################################################################################################################################################################################################################################################,0,3,5000,input in min_balance column does not meet length requirement
+2315,47126976.0,A,2500.0,3113.0,2021-11-05 00:00:00,D,,,0,7,1000,input in min_balance column is not a number
+2316,32211554.0,A,468.0,4871.0,2021-11-05 00:00:00,D,1901-07-08 00:00:00,###############################################################################################################################################################################################################################################################,0,3,5000,input in min_balance column is not a number
+2317,47126976.0,A,2000.0,4776.0,2021-06-03 00:00:00,D,,,0,7,1000,input in balance column is not a number
+2318,32211554.0,A,4031.0,3027.0,2021-06-03 00:00:00,D,###############################################################################################################################################################################################################################################################,1913-09-12 00:00:00,0,3,5000,input in balance column is not a number
+2319,47126976.0,A,2500.0,3787.0,2021-07-04 00:00:00,D,,,0,7,1000,input in balance column is not a number
+2320,32211554.0,A,3592.0,1534.0,2021-07-04 00:00:00,D,1918-04-07 00:00:00,1919-05-02 00:00:00,0,3,5000,input in balance column is not a number
+2321,47126976.0,A,2500.0,4872.0,2021-08-04 00:00:00,D,,,0,7,1000,input in balance column is not a number
+2322,32211554.0,A,956.0,5305.0,2021-08-04 00:00:00,D,###############################################################################################################################################################################################################################################################,1907-06-05 00:00:00,0,3,5000,input in balance column is not a number
+2323,47126976.0,A,3500.0,2922.0,2021-09-04 00:00:00,D,,,0,7,1000,input in balance column is not a number
+2324,32211554.0,A,4110.0,6724.0,2021-09-04 00:00:00,D,###############################################################################################################################################################################################################################################################,1900-04-08 00:00:00,0,3,5000,input in balance column is not a number
+2325,47126976.0,A,2500.0,2814.0,2021-10-05 00:00:00,D,,,0,7,1000,input in balance column is not a number
+2326,32211554.0,A,4402.0,4607.0,2021-10-05 00:00:00,D,###############################################################################################################################################################################################################################################################,###############################################################################################################################################################################################################################################################,0,3,5000,input in balance column does not meet length requirement
+2327,21321547.0,B,2500.0,2814.0,2021-10-05 00:00:00,D,-695,A,A,A,A,input in balance column is not a number
+2328,47126976.0,A,2500.0,3113.0,2021-11-05 00:00:00,D,,,0,7,1000,input in balance column is not a number
+2329,32211554.0,A,468.0,4871.0,2021-11-05 00:00:00,D,1901-07-08 00:00:00,###############################################################################################################################################################################################################################################################,0,3,5000,input in balance column does not meet length requirement
+2330,21321547.0,B,2500.0,2814.0,2021-10-05 00:00:00,D,-695,A,A,A,A,input in rejected_payments column is not a number
+2331,21321547.0,B,2500.0,2814.0,2021-10-05 00:00:00,D,-695,A,A,A,A,input in monthly_payment_scheduled column is not a number
+2332,21321547.0,B,2500.0,2814.0,2021-10-05 00:00:00,D,-695,A,A,A,A,input in credit_limit column is not a number
